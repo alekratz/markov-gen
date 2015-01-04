@@ -16,4 +16,4 @@ I use Eclipse when writing the software, but you can directly compile this using
 
 `javac -classpath lib/*.jar:.:bin/ src/*.java -d bin/`
 
-I've included a nice script for you to use if you so please, to run the project. `./run.sh` will do the trick. I feel like usage instructions for the software itself is fairly obvious, so I won't detail it here.
+I've included a nice script for you to use if you so please, to run the project. `./run.sh` will do the trick. I feel like usage instructions for the software itself are fairly obvious after you run it, so I won't detail it here.
