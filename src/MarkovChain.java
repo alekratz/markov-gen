@@ -124,7 +124,7 @@ public class MarkovChain {
 	}
 	
 	public void saveToFile(String path) {
-		
+		// TODO : this	
 	}
 	
 	public void loadFromFile(String path) throws FileNotFoundException {
@@ -132,7 +132,7 @@ public class MarkovChain {
 		FileReader reader =  new FileReader(file);
 		JSONObject root = (JSONObject) JSONValue.parse(reader);
 		for(Object word : root.keySet()) {
-			
+			// TODO : this
 		}
 	}
 	
