@@ -51,6 +51,13 @@ public class MarkovChain {
 		// choose a random seed
 		int which = random.nextInt(chain.keySet().size());
 		String word = (String)chain.keySet().toArray()[which];
+		// select the first word to be one that a sentence would start with; that is, have it start with a word that does not
+		// start with a lower case letter.
+		while(Character.isLowerCase(word.charAt(0))) {
+			which = random.nextInt(chain.keySet().size());
+			word = (String)chain.keySet().toArray()[which];
+		}
+		
 		return generateSentences(count, word);
 	}
 	

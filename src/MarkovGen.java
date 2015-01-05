@@ -32,7 +32,12 @@ public class MarkovGen {
 				System.exit(0);
 			} else if(args[i].equals("-c")) {
 				String countStr = args[++i];
-				generateCount = Integer.parseInt(countStr);
+				try {
+					generateCount = Integer.parseInt(countStr);
+				} catch(NumberFormatException ex) {
+					System.out.println("Error with flag -c: " + ex.getMessage());
+					System.exit(1);
+				}
 			} else {
 				paths.add(args[i]);
 			}
