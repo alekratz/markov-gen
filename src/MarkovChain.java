@@ -77,7 +77,7 @@ public class MarkovChain {
 		String paragraph = "";
 		
 		for(int i = 0; i < count; i++) {
-			paragraph += generateSentence(seed) + " ";
+			paragraph += generateSentence(seed);
 			// move along the seed
 			Weighttable weights = chain.get(seed);
 			String word = weights.getRandomWord();
@@ -122,7 +122,7 @@ public class MarkovChain {
 				}
 			}
 			
-			sentence += " " + append;
+			sentence += append + " ";
 			words.addLast(word);
 		} while (!word.endsWith(".") && !word.endsWith("!") && !word.endsWith("?"));
 		
