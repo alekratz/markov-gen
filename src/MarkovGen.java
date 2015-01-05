@@ -46,7 +46,7 @@ public class MarkovGen {
 	
 	public static void main(String[] args) {
 		parseArgs(args);
-		MarkovChain chain = new MarkovChain();
+		MarkovChain chain = new MarkovChain(4);
 		
 		for(String path : paths) {
 			try {
@@ -66,7 +66,7 @@ public class MarkovGen {
 		}
 		verbosePrintln("Loaded " + chain.count() + " words");
 		
-		String sentences = chain.generateSentences(generateCount);
+		String sentences = chain.generateParagraph(generateCount);
 		System.out.println(sentences);
 		System.out.println();
 	}
