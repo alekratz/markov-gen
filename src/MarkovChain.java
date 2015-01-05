@@ -9,14 +9,24 @@ import java.util.Stack;
 import org.json.simple.JSONObject;
 import org.json.simple.JSONValue;
 
-
+/**
+ * Represents a Markov chain, with connections and the like.
+ * @author Alek Ratzloff
+ *
+ */
 public class MarkovChain {
-	private Hashtable<String, Hashtable<String, Integer>> chain;
-	private Random random;
+	
+	private Hashtable<String, Weighttable> chain = new Hashtable<>();
+	private Random random = new Random();
+	private int order;
 	
 	public MarkovChain() {
-		chain = new Hashtable<String, Hashtable<String,Integer>>();
-		random = new Random();
+		order = 1;
+	}
+	
+	public MarkovChain(int order) {
+		assert(order > 0);
+		this.order = order;
 	}
 	
 	/**
@@ -33,7 +43,7 @@ public class MarkovChain {
 			t1 = t2;
 			t2 = scanner.next();
 			if(!chain.containsKey(t1)) {
-				chain.put(t1, new Hashtable<String, Integer>());
+				chain.put(t1, new Weighttable());
 			}
 			// get the hashtable for this key
 			Hashtable<String, Integer> markovTable = chain.get(t1);
@@ -106,28 +116,11 @@ public class MarkovChain {
 	 */
 	public String getRandomWord(String seed) {
 		if(!chain.containsKey(seed)) {
-			return "";
+			return ".";
 		}
 		
-		Hashtable<String, Integer> weights = chain.get(seed); 
-		Object[] words = weights.keySet().toArray();
-		int range = 0;
-		for(Object word : words) {
-			int weight = weights.get(word);
-			range += weight;
-		}
-		
-		int choice = random.nextInt(range);
-		int sum = 0;
-		for(Object word : words) {
-			int weight = weights.get(word);
-			sum += weight;
-			if(sum > choice)
-				return (String)word;
-		}
-		
-		assert(false);
-		return "";
+		Weighttable weights = chain.get(seed);
+		return weights.getRandomWord();
 	}
 	
 	public void saveToFile(String path) {
@@ -151,4 +144,11 @@ public class MarkovChain {
 		return chain.size();
 	}
 	
+	/**
+	 * Gets the the number of items to put in the pool when generating a Markov chain.
+	 * @return
+	 */
+	public int getOrder() {
+		return order;
+	}
 }
