@@ -42,7 +42,7 @@ excuse my presenting myself thus before you."
 "You bring me great news, then, monsieur?"
 
 "Sire, the thing is this, in two words: Belle-Isle is fortified,
-admirably fortified; Belle-Isle has a double _enceinte_, a citadel, two
+admirably fortified; Belle-Isle has a double enceinte, a citadel, two
 detached forts; its ports contain three corsairs; and the side batteries
 only await their cannon."
 
@@ -93,7 +93,7 @@ earning it, or rather by gaining it badly. -- My discharge, sire!"
 
 "You are angry, monsieur?"
 
-"I have reason, _mordioux!_ Thirty-two hours in the saddle, I ride day
+"I have reason, mordioux! Thirty-two hours in the saddle, I ride day
 and night, I perform prodigies of speed, I arrive stiff as the corpse of
 a man who has been hung -- and another arrives before me! Come, sire, I am
 a fool! -- My discharge, sire!"
@@ -153,7 +153,7 @@ d'Artagnan, does he partake of your repentance?"
 
 "No, sire, no," said D'Artagnan, blushing at the idea that the king
 might have a suspicion that he, D'Artagnan, had wished to engross to
-himself all the glory that belonged to Raoul; "no, _mordioux!_ and as
+himself all the glory that belonged to Raoul; "no, mordioux! and as
 your majesty says, I had a companion, and a good companion, too."
 
 "A young man?"
@@ -275,7 +275,7 @@ monsieur."
 "This is it, sire. -- When I was setting out on my first campaign, that is
 to say, to join the army of monsieur le prince, M. le Comte de la Fere
 came to conduct me as far as Saint-Denis, where the remains of King
-Louis XIII. wait, upon the lowest steps of the funeral _basilique_, a
+Louis XIII. wait, upon the lowest steps of the funeral basilique, a
 successor, whom God will not send him, I hope, for many years. Then
 he made me swear upon the ashes of our masters, to serve royalty,
 represented by you -- incarnate in you, sire -- to serve it in word, in
@@ -288,7 +288,7 @@ change my garrison."
 Raoul was silent and bowed. Louis still listened after he had done
 speaking.
 
-"_Mordioux!_" cried D'Artagnan, "that was well spoken! was it not, your
+"Mordioux!" cried D'Artagnan, "that was well spoken! was it not, your
 majesty? A good race! a noble race!"
 
 "Yes," murmured the king, without, however daring to manifest
@@ -314,7 +314,7 @@ palace, struck my ear."
 
 "In truth, you terrify me, M. d'Artagnan."
 
-"Sire, this word was pronounced to me by a _piqueur_, who wore crape on
+"Sire, this word was pronounced to me by a piqueur, who wore crape on
 his arm."
 
 "My uncle, Gaston of Orleans, perhaps."
@@ -358,7 +358,7 @@ Chapter II. A Lover and His Mistress.
 
 Whilst the wax-lights were burning in the castle of Blois, around the
 inanimate body of Gaston of Orleans, that last representative of the
-past; whilst the _bourgeois_ of the city were thinking out his epitaph,
+past; whilst the bourgeois of the city were thinking out his epitaph,
 which was far from being a panegyric; whilst madame the dowager, no
 longer remembering that in her young days she had loved that senseless
 corpse to such a degree as to fly the paternal palace for his sake,
@@ -420,7 +420,7 @@ I insist upon it."
 
 "Monsieur is dead."
 
-"Ah, _peste!_ that's news! And where do you come from, to be able to
+"Ah, peste! that's news! And where do you come from, to be able to
 tell us that?"
 
 "I come from Orleans, mademoiselle."
@@ -642,7 +642,7 @@ foot. "Stay where you are! I order you!"
 
 "Of my heart and soul, without doubt."
 
-"A pretty property! _ma foi!_ The soul is silly and the heart dry."
+"A pretty property! ma foi! The soul is silly and the heart dry."
 
 "Beware, Montalais, I know you," said Malicorne; "you are going to fall
 in love with your humble servant."
@@ -758,11 +758,11 @@ cannot but applaud such a determination, and I do applaud it."
 "I do not give in my resignation, madame; I take another service,-- that
 is all."
 
-"In the _bourgeoisie_ or in the _robe?_" asked Madame de Saint-Remy,
+"In the bourgeoisie or in the robe?" asked Madame de Saint-Remy,
 disdainfully.
 
 "Please to learn, madame, that I am not a girl to serve either
-_bourgeoises_ or _robines_; and that instead of the miserable court at
+bourgeoises or robines; and that instead of the miserable court at
 which you vegetate, I am going to reside in a court almost royal."
 
 "Ha, ha! a royal court," said Madame de Saint-Remy, forcing a laugh; "a
@@ -808,7 +808,7 @@ promises are as good as deeds."
 "And would it be indiscreet to ask you the name of this powerful
 protector?"
 
-"Oh! _mon Dieu!_ no! it is that gentleman there," said Montalais,
+"Oh! mon Dieu! no! it is that gentleman there," said Montalais,
 pointing to Malicorne, who, during this scene, had preserved the most
 imperturbable coolness, and the most comic dignity.
 
@@ -821,16 +821,16 @@ Malicorne bowed.
 As to Montalais, as her sole reply, she drew the brevet from her pocket,
 and showed it to the old lady.
 
-"Here is the _brevet_," said she.
+"Here is the brevet," said she.
 
 At once all was over. As soon as she had cast a rapid glance over this
-fortunate _brevet_, the good lady clasped her hands, an unspeakable
+fortunate brevet, the good lady clasped her hands, an unspeakable
 expression of envy and despair contracted her countenance, and she
 was obliged to sit down to avoid fainting. Montalais was not malicious
 enough to rejoice extravagantly at her victory, or to overwhelm the
 conquered enemy, particularly when that enemy was the mother of her
 friend; she used then, but did not abuse her triumph. Malicorne was
-less generous; he assumed noble _poses_ in his _fauteuil_ and stretched
+less generous; he assumed noble poses in his fauteuil and stretched
 himself out with a familiarity which, two hours earlier, would have
 drawn upon him threats of a caning.
 
@@ -863,7 +863,7 @@ proofs of their credit?"
 
 "And that friend is called?"
 
-"_Peste!_ madame, you go too far! When one has a friend as powerful as
+"Peste! madame, you go too far! When one has a friend as powerful as
 mine, we do not publish his name in that fashion, in open day, in order
 that he may be stolen from us."
 
@@ -871,7 +871,7 @@ that he may be stolen from us."
 would be pretty difficult for you to tell it."
 
 "At all events," said Montalais, "if the friend does not exist, the
-_brevet_ does, and that cuts short the question."
+brevet does, and that cuts short the question."
 
 "Then, I conceive," said Madame de Saint-Remy, with the gracious smile
 of the cat who is going to scratch, "when I found monsieur here just
@@ -879,7 +879,7 @@ now --"
 
 "Well?"
 
-"He brought you the _brevet_."
+"He brought you the brevet."
 
 "Exactly, madame; you have guessed rightly."
 
@@ -912,7 +912,7 @@ her hand.
 "And why should I, my dear Aure?" replied the girl in a voice soft as a
 flute.
 
-"_Dame!_" resumed Madame de Saint-Remy; "if she did bear you a little
+"Dame!" resumed Madame de Saint-Remy; "if she did bear you a little
 ill-will, poor girl, she could not be much blamed."
 
 "And why should she bear me ill-will, good gracious?"
@@ -945,7 +945,7 @@ pressure of the hand recompensed Malicorne for his future obedience.
 Malicorne went grumbling towards Madame de Saint-Remy, whilst Montalais
 said to her friend, throwing one arm around her neck:--
 
-"What is the matter? Tell _me_. Is it true that you would not love me if
+"What is the matter? Tell me. Is it true that you would not love me if
 I were to shine, as your mother says?"
 
 "Oh, no!" said the young girl, with difficulty restraining her tears;
@@ -984,7 +984,7 @@ than you would think. Do you wish to go to Paris?"
 
 "To remain here alone, in this old castle, I who have enjoyed the
 delightful habit of listening to your songs, of pressing your hand,
-of running about the park with you. Oh! how I shall be _ennuyee!_ how
+of running about the park with you. Oh! how I shall be ennuyee! how
 quickly I shall die!"
 
 "Do you wish to come to Paris?"
@@ -1013,7 +1013,7 @@ to Paris; confess that you are dying with the wish to see Raoul again."
 
 "In what way?"
 
-"Because -- do you not see this _brevet?_"
+"Because -- do you not see this brevet?"
 
 "To be sure I do."
 
@@ -1037,11 +1037,11 @@ Saint-Remy, and he turned round:--
 "Come hither, Malicorne," said Montalais, with an imperious gesture.
 Malicorne obeyed.
 
-"A _brevet_ like this," said Montalais.
+"A brevet like this," said Montalais.
 
 "How so?"
 
-"A _brevet_ like this; that is plain enough."
+"A brevet like this; that is plain enough."
 
 "But --"
 
@@ -1054,9 +1054,9 @@ Malicorne obeyed.
 "It is impossible, is it not, M. Malicorne?" said Louise, with her
 sweet, soft voice.
 
-"If it is for _you_, mademoiselle --"
+"If it is for you, mademoiselle --"
 
-"For me. Yes, Monsieur Malicorne, it _would_ be for me."
+"For me. Yes, Monsieur Malicorne, it would be for me."
 
 "And if Mademoiselle de Montalais asks it at the same time --"
 
@@ -1077,12 +1077,12 @@ Madame Henrietta within a week."
 
 "Well! or else?"
 
-"You may take back your _brevet_, Monsieur Malicorne; I will not leave
+"You may take back your brevet, Monsieur Malicorne; I will not leave
 my friend."
 
 "Dear Montalais!"
 
-"That is right. Keep your _brevet_; Mademoiselle de la Valliere shall be
+"That is right. Keep your brevet; Mademoiselle de la Valliere shall be
 a maid of honor."
 
 "Is that true?"
@@ -1124,7 +1124,7 @@ The introduction of these two new personages into this history and that
 mysterious affinity of names and sentiments, merit some attention on the
 part of both historian and reader. We will then enter into some details
 concerning Messieurs Malicorne and Manicamp. Malicorne, we know, had
-made the journey to Orleans in search of the _brevet_ destined for
+made the journey to Orleans in search of the brevet destined for
 Mademoiselle de Montalais, the arrival of which had produced such a
 strong feeling at the castle of Blois. At that moment, M. de Manicamp
 was at Orleans. A singular person was this M. de Manicamp; a very
@@ -1161,8 +1161,8 @@ bought new clothes, dressed himself again, and recommenced the same
 life he had followed before. The mania of selling his new clothes for
 a quarter of what they were worth, had rendered our hero sufficiently
 celebrated in Orleans, a city where, in general, we should be puzzled
-to say why he came to pass his days of penitence. Provincial _debauches,
-petits-maitres_ of six hundred livres a year, shared the fragments of
+to say why he came to pass his days of penitence. Provincial debauches,
+petits-maitres of six hundred livres a year, shared the fragments of
 his opulence.
 
 Among the admirers of these splendid toilettes, our friend Malicorne
@@ -1185,9 +1185,9 @@ family, and that was sufficient for Malicorne. The friend had little or
 no friendship, but he was the favorite of the Comte de Guiche, himself
 the friend of Monsieur, the king's brother; and that was sufficient for
 Malicorne. Only, in the chapter of charges, Mademoiselle de Montalais
-cost _per annum_:-- ribbons, gloves, and sweets, a thousand livres.
+cost per annum:-- ribbons, gloves, and sweets, a thousand livres.
 De Manicamp cost -- money lent, never returned -- from twelve to fifteen
-hundred livres _per annum_. So that there was nothing left for
+hundred livres per annum. So that there was nothing left for
 Malicorne. Ah! yes, we are mistaken; there was left the paternal strong
 box. He employed a mode of proceeding, upon which he preserved the most
 profound secrecy, and which consisted in advancing to himself, from
@@ -1200,7 +1200,7 @@ established at the period of his marriage. This juncture had arrived,
 and the household was about to be established. A good post in the family
 of a prince of the blood, when it is given by the credit, and on the
 recommendation of a friend, like the Comte de Guiche, is worth at least
-twelve thousand livres _per annum_; and by the means which M. Malicorne
+twelve thousand livres per annum; and by the means which M. Malicorne
 had taken to make his revenues fructify, twelve thousand livres might
 rise to twenty thousand. Then, when once an incumbent of this post, he
 would marry Mademoiselle de Montalais. Mademoiselle de Montalais, of
@@ -1218,8 +1218,8 @@ honor to Madame. M. Malicorne would be officer to Monsieur.
 
 It is plain the plan was formed by a clear head; it is plain, also,
 that it had been bravely executed. Malicorne had asked Manicamp to ask
-a _brevet_ of maid of honor of the Comte de Guiche; and the Comte de
-Guiche had asked this _brevet_ of Monsieur, who had signed it without
+a brevet of maid of honor of the Comte de Guiche; and the Comte de
+Guiche had asked this brevet of Monsieur, who had signed it without
 hesitation. The constructive plan of Malicorne -- for we may well suppose
 that the combinations of a mind as active as his were not confined
 to the present, but extended to the future -- the constructive plan of
@@ -1297,7 +1297,7 @@ the last decent clothing he had left. He had, a fortnight before,
 extorted from the Comte de Guiche a hundred pistoles, all he had, to
 assist in equipping him properly to go and meet Madame, on her arrival
 at Le Havre. He had drawn from Malicorne, three days before, fifty
-pistoles, the price of the _brevet_ obtained for Montalais. He had then
+pistoles, the price of the brevet obtained for Montalais. He had then
 no expectation of anything else, having exhausted all his resources,
 with the exception of selling a handsome suit of cloth and satin,
 embroidered and laced with gold, which had been the admiration of the
@@ -1317,7 +1317,7 @@ again, dear friend?"
 "Humph! you are very polite!" said Malicorne.
 
 "Ay, but look you, I was expecting money, and, instead of money, I see
-_you_."
+you."
 
 "And suppose I brought you some money?"
 
@@ -1333,7 +1333,7 @@ purse. Malicorne pretended to be mistaken, and gave him his hand.
 
 "What must be done for it?"
 
-"Earn it, _parbleu!_"
+"Earn it, parbleu!"
 
 "And after what fashion?"
 
@@ -1351,11 +1351,11 @@ purse. Malicorne pretended to be mistaken, and gave him his hand.
 "No, I have one suit left, the handsomest even, but I expect a
 purchaser."
 
-"And the _chausses?_"
+"And the chausses?"
 
 "Well, if you look, you will see them on that chair."
 
-"Very well! since you have some _chausses_ and a _pourpoint_ left, put
+"Very well! since you have some chausses and a pourpoint left, put
 your legs into the first and your back into the other; have a horse
 saddled, and set off."
 
@@ -1363,7 +1363,7 @@ saddled, and set off."
 
 "And why not?"
 
-"_Morbleu!_ don't you know, then, that M. de Guiche is at Etampes?"
+"Morbleu! don't you know, then, that M. de Guiche is at Etampes?"
 
 "No, I thought he was at Paris. You will then only have fifteen leagues
 to go, instead of thirty."
@@ -1383,7 +1383,7 @@ fortunes -- mine, and that of M. le Comte de Guiche."
 
 "You should say, that of M. le Comte de Guiche and yours."
 
-"That is true; honor where it is due; but I return to my _brevet_."
+"That is true; honor where it is due; but I return to my brevet."
 
 "And you are wrong."
 
@@ -1416,7 +1416,7 @@ Malicorne chinked the money in his pocket.
 
 "There are twenty pistoles here," said Malicorne.
 
-"And what would you do with twenty pistoles, _mon Dieu!_"
+"And what would you do with twenty pistoles, mon Dieu!"
 
 "Well!" said Malicorne, a little angry, "suppose I were to add them to
 the five hundred you already owe me?"
@@ -1425,7 +1425,7 @@ the five hundred you already owe me?"
 from that point of view I can accept them. Give them to me."
 
 "An instant, what the devil! it is not only holding out your hand that
-will do; if I give you the twenty pistoles, shall I have my _brevet?_"
+will do; if I give you the twenty pistoles, shall I have my brevet?"
 
 "To be sure you shall."
 
@@ -1456,9 +1456,9 @@ alone!"
 "Fourteen."
 
 "Well! fourteen be it; fourteen leagues makes seven posts; at twenty
-_sous_ the post, seven _livres_; seven _livres_ the courier, fourteen;
+sous the post, seven livres; seven livres the courier, fourteen;
 as many for coming back, twenty-eight! as much for bed and supper, that
-makes sixty _livres_ this complaisance would cost."
+makes sixty livres this complaisance would cost."
 
 Manicamp stretched himself like a serpent in his bed, and fixing his two
 great eyes upon Malicorne, "You are right," said he; "I could not return
@@ -1474,7 +1474,7 @@ before to-morrow;" and he took the twenty pistoles.
 
 "What do you wish to play with?"
 
-"Your twenty pistoles, _pardieu!_"
+"Your twenty pistoles, pardieu!"
 
 "No; you always win."
 
@@ -1515,7 +1515,7 @@ fourteen hours?"
 
 "Half-past."
 
-"_Hein!_-- you have a handsome watch!"
+"Hein!-- you have a handsome watch!"
 
 "What were you saying?" said Malicorne, putting his watch quickly back
 into his fob.
@@ -1585,7 +1585,7 @@ bed, which suits me and you too, at the same time, I am very sure."
 
 "Decidedly, Manicamp, you are a great man."
 
-"_Hein!_ I know that."
+"Hein! I know that."
 
 "I am to start then for Etampes?"
 
@@ -1599,7 +1599,7 @@ bed, which suits me and you too, at the same time, I am very sure."
 
 "Instantly."
 
-"And I shall have my _brevet?_"
+"And I shall have my brevet?"
 
 "You will."
 
@@ -1615,7 +1615,7 @@ bed, which suits me and you too, at the same time, I am very sure."
 
 "Except making money of him -- everything?"
 
-"_Diable!_ the exception is annoying; but then, if instead of asking him
+"Diable! the exception is annoying; but then, if instead of asking him
 for money, you were to ask --"
 
 "What?"
@@ -1965,8 +1965,8 @@ trade in it."
 "Malicorne, monsieur le comte."
 
 "Forgive me; it is that Latin that bothers me -- that terrible mine of
-etymologies. Why the deuce are young men of family taught Latin? _Mala_
-and _mauvaise_-- you understand it is the same thing. You will forgive
+etymologies. Why the deuce are young men of family taught Latin? Mala
+and mauvaise-- you understand it is the same thing. You will forgive
 me, I trust, M. de Malicorne."
 
 "Your kindness affects me much, monsieur: but it is a reason why I
@@ -2143,9 +2143,9 @@ Raoul's color mounted in his face; for he saw the object De Wardes had
 in view. "No; who has been appointed? In any case it must have been
 very recently, for the appointment was vacant eight days ago; a proof of
 which is, that the king refused Monsieur, who solicited the post for one
-of his _proteges_."
+of his proteges."
 
-"Well, the king refused it to Monsieur's _protege_, in order to bestow
+"Well, the king refused it to Monsieur's protege, in order to bestow
 it upon the Chevalier d'Artagnan, a younger brother of some Gascon
 family, who has been trailing his sword in the ante-chambers during the
 last thirty years."
@@ -2155,9 +2155,9 @@ of severity at De Wardes; "but you give me the impression of being
 unacquainted with the gentleman of whom you are speaking."
 
 "I not acquainted with M. d'Artagnan? Can you tell me, monsieur, who
-does _not_ know him?"
+does not know him?"
 
-"Those who _do_ know him, monsieur," replied Raoul, with still greater
+"Those who do know him, monsieur," replied Raoul, with still greater
 calmness and sternness of manner, "are in the habit of saying, that if
 he is not as good a gentleman as the king -- which is not his fault -- he is
 the equal of all the kings of the earth in courage and loyalty. Such is
@@ -2230,7 +2230,7 @@ be forbidden to hate M. d'Artagnan."
 "Ask my dead father that question."
 
 "Really, my dear De Wardes, you surprise me. M. d'Artagnan is not one to
-leave unsettled any _enmity_ he may have to arrange, without completely
+leave unsettled any enmity he may have to arrange, without completely
 clearing his account. Your father, I have heard, carried matters with a
 high hand. Moreover, there are no enmities so bitter that they cannot be
 washed away by blood, by a good sword-thrust loyally given."
@@ -2250,7 +2250,7 @@ occurs, they shall have no occasion to complain of their allowance."
 De Guiche had kept his eyes fixed on De Wardes, and shuddered at
 the bitter manner in which the young man smiled. Something like a
 presentiment flashed across his mind; he knew that the time had passed
-away for _grands coups entre gentilshommes_; but that the feeling of
+away for grands coups entre gentilshommes; but that the feeling of
 hatred treasured up in the mind, instead of being diffused abroad, was
 still hatred all the same; that a smile was sometimes as full of meaning
 as a threat; and, in a word, that to the fathers who had hated with
@@ -2967,7 +2967,7 @@ favor."
 
 "These envoys have shown how great their courage is," said the admiral.
 "You may have observed that there was a great number of persons on shore
-who did _not_ venture to accompany them. Moreover, the desire which they
+who did not venture to accompany them. Moreover, the desire which they
 had to show their respect with the least possible delay to Madame and
 her illustrious mother, induced them to brave the sea, which is very
 tempestuous to-day, even for sailors. These gentlemen, however, whom I
@@ -3241,7 +3241,7 @@ replied disdainfully, "Who may you be, monsieur?"
 
 Manicamp, leaning on the arm of a gigantic trooper, as firm as
 the pillar of a cathedral, replied in his usual tranquil tone of
-voice,--"And _you_, monsieur?"
+voice,--"And you, monsieur?"
 
 "I, monsieur, am the Duke of Buckingham; I have hired all the houses
 which surround the Hotel de Ville, where I have business to transact;
@@ -3271,7 +3271,7 @@ been left for us."
 "You are mistaken, monsieur; the square belongs to me, as well as the
 houses in it."
 
-"Forgive me, monsieur, but you are mistaken there. In _our_ country,
+"Forgive me, monsieur, but you are mistaken there. In our country,
 we say, the highway belongs to the king, therefore this square is his
 majesty's; and, consequently, as we are the king's ambassadors, the
 square belongs to us."
@@ -3305,7 +3305,7 @@ anger more marked than ever, although in some measure moderated by the
 presence of an equal, "I was saying that it is impossible these tents
 can remain where they are."
 
-"_Impossible!_" exclaimed De Guiche, "and why?"
+"Impossible!" exclaimed De Guiche, "and why?"
 
 "Because I object to them."
 
@@ -3315,7 +3315,7 @@ Raoul restrained him.
 "You should the less object to them, monsieur, on account of the abuse
 of priority you have permitted yourself to exercise."
 
-"_Abuse!_"
+"Abuse!"
 
 "Most assuredly. You commission a messenger, who hires in your name the
 whole of the town of Le Havre, without considering the members of the
@@ -3733,7 +3733,7 @@ conscientious garrison," said he to himself, sighing aloud.
 
 Chapter XII. From Le Havre to Paris.
 
-The next day the _fetes_ took place, accompanied by all the pomp and
+The next day the fetes took place, accompanied by all the pomp and
 animation that the resources of the town and the cheerful disposition of
 men's minds could supply. During the last few hours spent in Le Havre,
 every preparation for the departure had been made. After Madame had
@@ -3752,7 +3752,7 @@ weather was very fine. France is a beautiful country, especially along
 the route by which the procession passed. Spring cast its flowers and
 its perfumed foliage on their path. Normandy, with its vast variety of
 vegetation, its blue skies and silver rivers, displayed itself in all
-the loveliness of a paradise to the new sister of the king. _Fetes_ and
+the loveliness of a paradise to the new sister of the king. Fetes and
 brilliant displays received them everywhere along the line of march.
 De Guiche and Buckingham forgot everything; De Guiche in his anxiety to
 prevent any fresh attempts on the part of the duke, and Buckingham, in
@@ -4215,7 +4215,7 @@ which envious minds can alone give to the simplest phrases.
 "One would think you can judge of that for yourself; look, only, how
 they are laughing and flirting. All three of them."
 
-"What do you mean by _all three?_"
+"What do you mean by all three?"
 
 "Do you not see that De Guiche is one of the party?"
 
@@ -4354,7 +4354,7 @@ simpleton."
 
 At this moment Raoul opportunely arrived, seeing how De Guiche was
 pressed by his dangerous questioner, to whom he addressed a remark, and
-in that way changed the conversation. The _entree_ was brilliant and
+in that way changed the conversation. The entree was brilliant and
 joyous.
 
 The king, in honor of his brother, had directed that the festivities
@@ -4631,7 +4631,7 @@ what your highness does me the honor to impart is perfectly new to me."
 we shall not have long to wait. See, the flying squadron is advancing,
 as good Queen Catherine used to say. Ah! ah! what pretty faces!"
 
-A bevy of young girls at this moment entered the _salon_, conducted by
+A bevy of young girls at this moment entered the salon, conducted by
 Madame de Navailles, and to Manicamp's credit be it said, if indeed
 he had taken that part in their selection which the Prince de Conde
 assigned him, it was a display calculated to dazzle those who, like the
@@ -4665,7 +4665,7 @@ Montalais who made you utter such a 'Great heavens'?"
 "No, monseigneur, no," replied Raoul, pale and trembling.
 
 "Well, then, if it be not Mademoiselle Aure de Montalais, it is that
-pretty _blonde_ who follows her. What beautiful eyes! She is rather
+pretty blonde who follows her. What beautiful eyes! She is rather
 thin, but has fascinations without number."
 
 "Mademoiselle de la Baume le Blanc de la Valliere!" said Madame de
@@ -4760,7 +4760,7 @@ De Wardes seemed to guess what was passing in his mind, and continued:
 "Take care, gentlemen," exclaimed De Guiche, anxious to put a stop to
 the chevalier's reply; "take care, Madame is listening to us."
 
-Raoul had thrust his hand up to the wrist into his _justaucorps_ in
+Raoul had thrust his hand up to the wrist into his justaucorps in
 great agitation. But the very malignity which he saw was excited against
 these poor girls made him take a serious resolution. "Poor Louise," he
 thought, "has come here only with an honorable object in view, and under
@@ -4962,7 +4962,7 @@ things cannot continue; you must be married in order to be respected."
 
 "Reflect, M. Raoul; wait."
 
-"Wait! it is impossible. Reflect, Louise, when _you_ are concerned! it
+"Wait! it is impossible. Reflect, Louise, when you are concerned! it
 would be insulting,-- give me your hand, dear Louise; I am my own master.
 My father will consent, I know; give me your hand, do not keep me
 waiting thus. One word in answer, one word only; if not, I shall begin
@@ -5104,7 +5104,7 @@ Raoul."
 
 "Excellently well disposed."
 
-"You _know_ that to be so?" continued the count.
+"You know that to be so?" continued the count.
 
 "The king has himself told me so."
 
@@ -5251,7 +5251,7 @@ from any observance of etiquette towards him. Monsieur was now in one
 of those moods, but he dreaded as much as he liked the chevalier, and
 contented himself with nursing his anger without betraying it. Every
 now and then Monsieur raised his eyes to the ceiling, then lowered them
-towards the slices of _pate_ which the chevalier was attacking, and
+towards the slices of pate which the chevalier was attacking, and
 finally, not caring to betray the resentment, he gesticulated in a
 manner which Harlequin might have envied. At last, however, Monsieur
 could control himself no longer, and at the dessert, rising from the
@@ -5433,7 +5433,7 @@ correspondences, and toilettes; in the evenings, balls and concerts."
 "You are jealous, Philip."
 
 "I! Heaven forbid. Let others act the part of a jealous husband, not I.
-But I _am_ annoyed."
+But I am annoyed."
 
 "All these things you reproach your wife with are perfectly innocent,
 and, so long as you have nothing of greater importance --"
@@ -5533,10 +5533,10 @@ you while it alarms me; reflect a little."
 
 "That Buckingham never quits my wife. He presumes to make presents to
 her, and she ventures to accept them. Yesterday she was talking about
-_sauchets a la violette_; well, our French perfumers, you know very
+sauchets a la violette; well, our French perfumers, you know very
 well, madame, for you have over and over again asked for it without
 success -- our French perfumers, I say, have never been able to procure
-this scent. The duke, however, wore about him a _sachet a la violette_,
+this scent. The duke, however, wore about him a sachet a la violette,
 and I am sure that the one my wife has came from him."
 
 "Indeed, monsieur," said Anne of Austria, "you build your pyramids on
@@ -5643,7 +5643,7 @@ well know what any household comes to, that is troubled by advisers."
 
 "Where do you suppose him to be?"
 
-"At my wife's door, whose _levee_ he is probably awaiting."
+"At my wife's door, whose levee he is probably awaiting."
 
 "Very well," said Anne of Austria, calmly. "Be good enough to tell the
 duke that I shall be charmed if he will pay me a visit."
@@ -5706,7 +5706,7 @@ own country, and that you live in a splendid and time-honored place."
 "It was my father's residence," replied Buckingham, casting down his
 eyes.
 
-"Those are indeed great advantages and _souvenirs_," replied the
+"Those are indeed great advantages and souvenirs," replied the
 queen, alluding, in spite of herself, to recollections from which it is
 impossible voluntarily to detach one's self.
 
@@ -5999,7 +5999,7 @@ indeed come for that purpose."
 
 "It is not for myself, sire."
 
-"So much the worse; but, at least, I will do for your _protege_ what you
+"So much the worse; but, at least, I will do for your protege what you
 refuse to permit me to do for you."
 
 "Your majesty encourages me. I have come to speak on behalf of the
@@ -6197,7 +6197,7 @@ amongst my nobility." Athos bowed, and remained silent.
 however, necessary that I should inform Raoul?"
 
 "Spare yourself the trouble and annoyance. Tell the vicomte that at my
-_levee_ to-morrow morning I will speak to him. I shall expect you this
+levee to-morrow morning I will speak to him. I shall expect you this
 evening, comte, to join my card-table."
 
 "I am in traveling-costume, sire."
@@ -6320,7 +6320,7 @@ spirits."
 "It is your case, then, Raoul, as it is my own,-- our love affairs do not
 progress."
 
-"So much the better, count, as far as _you_ are concerned; the worst
+"So much the better, count, as far as you are concerned; the worst
 news would be good news."
 
 "In that case do not distress yourself, for, not only am I very unhappy,
@@ -6333,7 +6333,7 @@ you saw dawn in me, increase, and take entire possession of me. I have
 summoned all your advice and my own strength to my aid. I have well
 weighed the unfortunate affair in which I have embarked; I have sounded
 its depths; that it is an abyss, I am aware, but it matters little for
-_I_ shall pursue my own course."
+I shall pursue my own course."
 
 "This is madness, De Guiche! you cannot advance another step without
 risking your own ruin to-day, perhaps your life to-morrow."
@@ -6411,7 +6411,7 @@ to him in a similar style."
 
 "The duke consults me as you do."
 
-"I suppose you will give _me_ the preference! Listen to me, Raoul, I
+"I suppose you will give me the preference! Listen to me, Raoul, I
 wish you to tell his Grace -- it is a very simple matter -- that to-day,
 to-morrow, the following day, or any other day he may choose, I will
 meet him at Vincennes."
@@ -6423,7 +6423,7 @@ meet him at Vincennes."
 "The duke is a stranger here; he is on a mission which renders his
 person inviolable.... Vincennes is close to the Bastile."
 
-"The consequences concern _me_."
+"The consequences concern me."
 
 "But the motive for this meeting? What motive do you wish me to assign?"
 
@@ -6453,7 +6453,7 @@ here."
 
 "Nothing."
 
-"I do not like the man, and, as I _never_ liked him, the result is, that
+"I do not like the man, and, as I never liked him, the result is, that
 I am on no worse terms with him to-day than I was yesterday."
 
 "Let us go, then."
@@ -6510,7 +6510,7 @@ render me a service."
 
 "It is simply to go and interrupt the Duke of Buckingham, to whom I wish
 to say two words, and, as the duke is conversing with M. Fouquet, you
-understand that it would not do for _me_ to throw myself into the middle
+understand that it would not do for me to throw myself into the middle
 of the conversation."
 
 "Ah, ah, is M. Fouquet there?" inquired D'Artagnan.
@@ -6942,7 +6942,7 @@ further." The circle of listeners, full of eager curiosity, drew closer.
 "You spoke just now of the honor of a woman, and of the honor of
 your father. We were glad to hear you speak in that manner; for it is
 pleasing to think that such a sentiment of delicacy and rectitude, and
-which did not exist, it seems, in _our_ minds, lives in our children;
+which did not exist, it seems, in our minds, lives in our children;
 and it is delightful, too, to see a young man, at an age when men from
 habit become the destroyers of the honor of women, respect and defend
 it."
@@ -7007,7 +7007,7 @@ services, dating from a period when you were not born, and who, at
 my request, has just sent me an order in blank for M. Baisemeaux de
 Montlezun, governor of the Bastile; and I shall say to the king: 'Sire,
 a man has in a most cowardly way insulted M. de Bragelonne by insulting
-his mother; I have written this man's name upon the _lettre de cachet_
+his mother; I have written this man's name upon the lettre de cachet
 which your majesty has been kind enough to give me, so that M. de Wardes
 is in the Bastile for three years." And D'Artagnan, drawing the order
 signed by the king from his pocket, held it towards De Wardes.
@@ -7203,7 +7203,7 @@ compelled him to remain within doors; for if, in retracing the forty
 leagues which separate us from Blois, he needed to draw breath even, he
 would die without a murmur. But I don't want to lose Grimaud."
 
-"You shall have one of my musketeers to carry a torch for you. _Hola!_
+"You shall have one of my musketeers to carry a torch for you. Hola!
 some one there," called out D'Artagnan, leaning over the gilded
 balustrade. The heads of seven or eight musketeers appeared. "I wish
 some gentleman, who is so disposed, to escort the Comte de la Fere,"
@@ -7253,7 +7253,7 @@ used formerly to have such delightful meetings in the cardinal's time?"
 
 "Perfectly," said Athos, taking leave of him with affability.
 
-"Monsieur le Comte de la Fere, whose _nom de guerre_ was Athos,"
+"Monsieur le Comte de la Fere, whose nom de guerre was Athos,"
 whispered D'Artagnan to Baisemeaux.
 
 "Yes, yes, a brave man, one of the celebrated four."
@@ -7700,7 +7700,7 @@ require your services."
 
 "My cash-box more than anything else," said Fouquet, coldly.
 
-"The fact is, I wish to give a _fete_ at Fontainebleau -- to keep open
+"The fact is, I wish to give a fete at Fontainebleau -- to keep open
 house for fifteen days, and I shall require --" and he stopped, glancing
 at Colbert. Fouquet waited without showing discomposure; and the king
 resumed, answering Colbert's icy smile, "four million francs."
@@ -7717,7 +7717,7 @@ sire?"
 "Time!" exclaimed Colbert, triumphantly.
 
 "The time, monsieur," said the superintendent, with the haughtiest
-disdain, "simply to _count the money_; a million can only be drawn and
+disdain, "simply to count the money; a million can only be drawn and
 weighed in a day."
 
 "Four days, then," said Colbert.
@@ -7807,19 +7807,19 @@ less easy."
 
 "And you promised?"
 
-"What could I _do?_"
+"What could I do?"
 
 "That's true."
 
 "The very day I refuse, Colbert will procure the money; whence I know
-not, but he _will_ procure it: and I shall be lost."
+not, but he will procure it: and I shall be lost."
 
 "There is no doubt of that. In how many days did you promise the four
 millions?"
 
 "In three days. The king seemed exceedingly pressed."
 
-"_In three days?_"
+"In three days?"
 
 "When I think," resumed Fouquet, "that just now as I passed along the
 streets, the people cried out, 'There is the rich Monsieur Fouquet,' it
@@ -7837,7 +7837,7 @@ exhausted; Belle-Isle is paid for; the pension has been paid; and money,
 since the investigation of the accounts of those who farm the revenue,
 is scarce. Besides, admitting that I pay this time, how can I do so on
 another occasion? When kings have tasted money, they are like tigers who
-have tasted flesh, they devour everything. The day will arrive --_must_
+have tasted flesh, they devour everything. The day will arrive --must
 arrive -- when I shall have to say, 'Impossible, sire,' and on that very
 day I am a lost man."
 
@@ -7863,7 +7863,7 @@ lost, something will be discovered which will retrieve everything."
 
 "I! I resign my office of inventor."
 
-"Then _I_ will."
+"Then I will."
 
 "Be it so. But set to work without delay."
 
@@ -7873,7 +7873,7 @@ lost, something will be discovered which will retrieve everything."
 passing his handkerchief over his face.
 
 "Do you not remember that I one day told you not to make yourself
-uneasy, if you possessed courage? _Have_ you any?"
+uneasy, if you possessed courage? Have you any?"
 
 "I believe so."
 
@@ -8377,7 +8377,7 @@ fifteen?"
 "Very well! Then you gain seven francs and a half upon those who pay you
 fifteen francs."
 
-"I _must_ compensate myself somehow," said Baisemeaux, who saw how he
+"I must compensate myself somehow," said Baisemeaux, who saw how he
 had been snapped up.
 
 "You are quite right, my dear governor; but have you no prisoners below
@@ -8635,7 +8635,7 @@ prisoners?"
 
 "The prisoners, I suppose, tell them they are not guilty?"
 
-"They are _always_ telling them that; it is a matter of course; the same
+"They are always telling them that; it is a matter of course; the same
 song over and over again."
 
 "But does not the resemblance you were speaking about just now strike
@@ -8801,7 +8801,7 @@ After you have seen it you will believe it, I hope."
 
 "Yes, my dear governor, certainly; but all this time you are thinking
 only of your very happy fifteen-franc prisoner, and you forget poor
-Seldon, my _protege_."
+Seldon, my protege."
 
 "Well, out of consideration for you, it shall be a gala day for him; he
 shall have some biscuits and preserves with this small bottle of port."
@@ -9350,7 +9350,7 @@ her hands, and hardly allowed her time to speak. "Dearest," she
 said, "have you forgotten me? Have you quite given yourself up to the
 pleasures of the court?"
 
-"I have not even seen the marriage _fetes_."
+"I have not even seen the marriage fetes."
 
 "What are you doing with yourself, then?"
 
@@ -9442,7 +9442,7 @@ subjects, in comparing me to Danae."
 "Yes; do you not remember that at the convent, when we were solving our
 problems in arithmetic -- ah! what I have to tell you is learned also, but
 it is my turn -- do you not remember, that if one of the terms were given,
-we were to find the other? Therefore do _you_ guess now?"
+we were to find the other? Therefore do you guess now?"
 
 "I cannot conjecture what you mean."
 
@@ -9797,7 +9797,7 @@ to you on your marriage? for I have furnished both."
 "First of all, the new one."
 
 "The covers, the goblets, and the dishes, with their covers, the
-_eau-epergne_, the ice-pails, the dishes for the preserves, and the tea
+eau-epergne, the ice-pails, the dishes for the preserves, and the tea
 and coffee urns, cost your ladyship sixty thousand francs."
 
 "No more?"
@@ -10000,7 +10000,7 @@ Madame Faucheux's carriage -- for Madame Faucheux kept her carriage. As
 the daughter of a president of accounts, she had brought a marriage
 portion of thirty thousand crowns to her husband, who was syndic of the
 goldsmiths. These thirty thousand crowns had become very fruitful during
-twenty years. The jeweler, though a _millionaire_, was a modest man. He
+twenty years. The jeweler, though a millionaire, was a modest man. He
 had purchased a substantial carriage, built in 1648, ten years after the
 king's birth. This carriage, or rather house upon wheels, excited the
 admiration of the whole quarter in which he resided -- it was covered
@@ -10339,7 +10339,7 @@ Chapter XXIX. Le Terrain de Dieu.
 During the progress of these events Buckingham and De Wardes traveled
 in excellent companionship, and made the journey from Paris to Calais in
 undisturbed harmony together. Buckingham had hurried his departure, so
-that the greater part of his _adieux_ were very hastily made. His visit
+that the greater part of his adieux were very hastily made. His visit
 to Monsieur and Madame, to the young queen, and to the queen-dowager,
 had been paid collectively -- a precaution on the part of the queen-mother
 which saved him the distress of any private conversation with Monsieur,
@@ -10674,7 +10674,7 @@ with De Guiche were gradually assuming a tone of interest which might
 unmistakably be recognized as the prelude of a deep-seated attachment.
 When eyes look languishingly while the subject under discussion happens
 to be colors of materials for dresses; when a whole hour is occupied in
-analyzing the merits and the perfume of a _sachet_ or a flower;-- there
+analyzing the merits and the perfume of a sachet or a flower;-- there
 are words in this style of conversation which every one might listen to,
 but there are gestures and sighs that every one cannot perceive. After
 Madame had talked for some time with De Guiche, she conversed with
@@ -10882,7 +10882,7 @@ you; but why did you leave me?"
 
 "Explain yourself."
 
-"Your highness has people about you who are far more amusing that _I_
+"Your highness has people about you who are far more amusing that I
 can ever be. I felt I was not strong enough to enter into contest with
 them, and I therefore withdrew."
 
@@ -10922,7 +10922,7 @@ are good enough to testify for me."
 "Madame never addresses a syllable to me, particularly since a certain
 time."
 
-"Since _what_ time?"
+"Since what time?"
 
 "Since the time when, M. de Guiche having made himself more agreeable to
 her than I could, she receives him at every and any hour."
@@ -11023,7 +11023,7 @@ I would say it even to Madame herself. Only you understand what I am
 afraid of -- I am afraid of being thought jealous of the favor shown,
 when I am only jealous as far as friendship is concerned. I know your
 disposition; I know that when you bestow your affections you become
-exclusively attached. You love Madame -- and who, indeed, would _not_ love
+exclusively attached. You love Madame -- and who, indeed, would not love
 her? Follow me attentively as I proceed:-- Madame has noticed among your
 friends the handsomest and most fascinating of them all; she will begin
 to influence you on his behalf in such a way that you will neglect the
@@ -11142,7 +11142,7 @@ done."
 
 The chevalier left the room, called his different attendant with the
 greatest care, as if he were giving them different orders. All went
-off in various directions; but he retained his _valet de chambre_.
+off in various directions; but he retained his valet de chambre.
 "Ascertain, and immediately, too, of M. de Guiche is not in Madame's
 apartments. How can one learn it?"
 
@@ -11313,7 +11313,7 @@ to-day, as it is only a question of dancing to music, I dance."
 he continued, "you do not remark that your ladies deprive me of my
 friends; M. de Guiche does not belong to you, Madame, but to me. If you
 wish to dine without me you have your ladies. When I dine alone I have
-my gentlemen; do not strip me of _everything_."
+my gentlemen; do not strip me of everything."
 
 Madame felt the reproach and the lesson, and the color rushed to her
 face. "Monsieur," she replied, "I was not aware, when I came to the
@@ -11364,7 +11364,7 @@ fourth part of what we have just now seen."
 "What do you mean?"
 
 "To conceal oneself for the purposes of dancing, and to feign
-indisposition in order to dine _tete-a-tete_."
+indisposition in order to dine tete-a-tete."
 
 "No, no, monseigneur."
 
@@ -11374,7 +11374,7 @@ going on."
 
 "Oh, monseigneur, an exposure --"
 
-"By Heaven, monsieur, _shall_ I put myself out of the way, when people
+"By Heaven, monsieur, shall I put myself out of the way, when people
 show so little consideration for me? Wait for me here, chevalier, wait
 for me here." The prince disappeared in the neighboring apartment and
 inquired of the gentleman in attendance if the queen-mother had returned
@@ -11674,7 +11674,7 @@ assiduity; suspicions of treasonable plots and practices."
 
 "And the proofs?"
 
-"There _are_ none."
+"There are none."
 
 "Very well; I will go at once to see Madame." The king turned to look in
 the mirrors at his costume, which was very rich, and his face, which
@@ -12081,7 +12081,7 @@ alliance."
 the whole conversation had taken.
 
 "Oh, I will not refuse to witness a resounding oath," said Madame; "it
-has always the _semblance_ of security."
+has always the semblance of security."
 
 The king knelt upon a footstool and took Madame's hand. She, with a
 smile that no painter could ever succeed in depicting, and which a poet
@@ -12436,7 +12436,7 @@ as Autumn, and shall have to dance with Madame. I cannot absent myself
 without the king's orders, since my departure would interrupt the
 ballet."
 
-"I," said the chevalier, "am to be only a simple _egypan_; true, it is,
+"I," said the chevalier, "am to be only a simple egypan; true, it is,
 I am a bad dancer, and my legs are not well made. Gentlemen, adieu.
 Do not forget the basket of fruit, which you are to offer to Pomona,
 count."
@@ -12501,7 +12501,7 @@ court, who had been carefully selected. A great number of courtiers,
 also selected, occupied the time, before the dancing commenced, in
 conversing, as people knew how to converse in those times. None of the
 ladies who had received invitations appeared in the costumes of
-the _fete_, as the Chevalier de Lorraine had predicted, but many
+the fete, as the Chevalier de Lorraine had predicted, but many
 conversations took place about the rich and ingenious toilettes designed
 by different painters for the ballet of "The Demi-Gods," for thus were
 termed the kings and queens of which Fontainebleau was about to
@@ -12550,7 +12550,7 @@ queens:--
 Fontainebleau, in accordance with my directions." A murmur of
 satisfaction arose from the different groups, and the king perceived
 on every face the greatest anxiety to receive an invitation for the
-_fetes_. "I shall leave to-morrow," he added. Whereupon the profoundest
+fetes. "I shall leave to-morrow," he added. Whereupon the profoundest
 silence immediately ensued. "And I invite," said the king, finishing,
 "all those who are now present to get ready to accompany me."
 
@@ -12628,14 +12628,14 @@ hundred francs a day! The dress alone amounted to three hundred francs.
 The expense of powder and sulphur for fireworks amounted, every night,
 to a hundred thousand francs. In addition to these, the illuminations
 on the borders of the sheet of water cost thirty thousand francs
-every evening. The _fetes_ had been magnificent; and Colbert could not
+every evening. The fetes had been magnificent; and Colbert could not
 restrain his delight. From time to time, he noticed Madame and the king
 setting forth on hunting expeditions, or preparing for the reception
 of different fantastic personages, solemn ceremonials, which had been
 extemporized a fortnight before, and in which Madame's sparkling wit and
 the king's magnificence were equally well displayed.
 
-For Madame, the heroine of the _fete_, replied to the addresses of the
+For Madame, the heroine of the fete, replied to the addresses of the
 deputations from unknown races -- Garamanths, Scythians, Hyperboreans,
 Caucasians, and Patagonians, who seemed to issue from the ground for the
 purpose of approaching her with their congratulations; and upon every
@@ -12669,7 +12669,7 @@ evening Madame returned home quite exhausted. Horse-riding, bathing
 in the Seine, spectacles, dinners under the leafy covert of the trees,
 balls on the banks of the grand canal, concerts, etc., etc.; all this
 would have been sufficient to have killed, not a slight and delicate
-woman, but the strongest porter in the _chateau_. It is perfectly
+woman, but the strongest porter in the chateau. It is perfectly
 true that, with regard to dancing, concerts, and promenades, and such
 matters, a woman is far stronger than the most robust of porters. But,
 however great a woman's strength may be, there is a limit to it, and she
@@ -12695,7 +12695,7 @@ the rooms, a door on the left opening to Madame's apartment, the one on
 the right to the young queen's. In his wife's apartment, Monsieur was
 informed, by a sempstress who was working there, that every one had left
 at eleven o'clock, for the purpose of bathing in the Seine, that a grand
-_fete_ was to be made of the expedition, that all the carriages had been
+fete was to be made of the expedition, that all the carriages had been
 placed at the park gates, and that they had all set out more than an
 hour ago.
 
@@ -12721,7 +12721,7 @@ only, in which I have no share."
 "Patience, patience, my daughter," said Anne of Austria, in Spanish; and
 then, also in Spanish, added some words of advice, which Monsieur did
 not understand. The queen replied by accusations, mingled with sighs and
-sobs, among which Monsieur often distinguished the word _banos_, which
+sobs, among which Monsieur often distinguished the word banos, which
 Maria Theresa accentuated with spiteful anger.
 
 "The baths," said Monsieur to himself; "it seems it is the baths that
@@ -12785,7 +12785,7 @@ Madame --"
 "Ah! folly!"
 
 "No, no, no; people are not always foolish when they weep. The queen
-said _banos_, which means baths."
+said banos, which means baths."
 
 "I repeat, Philip," said Anne of Austria, "that your sister is
 childishly jealous."
@@ -13067,7 +13067,7 @@ you about me?"
 "And it really seems to me," continued the king, "that we have never
 given any ground --"
 
-"Never! at least _I_ have not. But who told you that Monsieur was
+"Never! at least I have not. But who told you that Monsieur was
 jealous?"
 
 "My mother represented to me that Monsieur entered her apartments like a
@@ -13100,7 +13100,7 @@ whether it has, or has not, been perfectly correct."
 "Oh, certainly -- perfectly correct."
 
 "Often alone together,-- for we delight in the same things,-- we might
-possibly be led away into error, but _have_ we been? I regard you as a
+possibly be led away into error, but have we been? I regard you as a
 brother, and nothing more."
 
 The king frowned. She continued:
@@ -13159,7 +13159,7 @@ bathing parties, which have made me so happy."
 "And me too," answered Madame, by a look.
 
 "When, suddenly," continued the king, "Monsieur, who was listening,
-heard the word '_banos_,' which the queen pronounced with some degree
+heard the word 'banos,' which the queen pronounced with some degree
 of bitterness, that awakened his attention; he entered the room, looking
 quite wild, broke into the conversation, and began to quarrel with my
 mother so bitterly that she was obliged to leave him; so that, while you
@@ -13694,10 +13694,10 @@ Colbert."
 
 "Yes, sire, and M. Colbert said he would wait upon your majesty, as
 soon as your majesty should manifest an intention of carrying out the
-_fetes_, of which he has furnished the programme."
+fetes, of which he has furnished the programme."
 
 "Let him come in, then," said the king; and as if Colbert had been
-listening at the door for the purpose of keeping himself _au courant_
+listening at the door for the purpose of keeping himself au courant
 with the conversation, he entered as soon as the king had pronounced his
 name to the two courtiers.
 
@@ -13862,7 +13862,7 @@ The princess -- who was robed in a long dress, diaphanous and light as the
 finest network tissue from the hands of skillful Mechlin workers, one
 knee occasionally revealed beneath the folds of the tunic, and her
 little feet encased in silken slippers decked with pearls -- advanced
-radiant with beauty, accompanied by her _cortege_ of Bacchantes, and
+radiant with beauty, accompanied by her cortege of Bacchantes, and
 had already reached the spot assigned to her in the dance. The applause
 continued so long that the comte had ample leisure to join the king.
 
@@ -14067,7 +14067,7 @@ were very silly."
 She then rose, humming the air to which she was presently going to
 dance. De Guiche had overheard everything. The arrow pierced his heart
 and wounded him mortally. Then, at the risk of interrupting the progress
-of the _fete_ by his annoyance, he fled from the scene, tearing his
+of the fete by his annoyance, he fled from the scene, tearing his
 beautiful costume of Autumn in pieces, and scattering, as he went along,
 the branches of vines, mulberry and almond trees, with all the other
 artificial attributes of his assumed divinity. A quarter of an hour
@@ -14276,8 +14276,8 @@ Bragelonne has honored me by asking my hand in marriage, but --"
 "Eh! Why the king? and what has the king to do with it?" exclaimed Aure,
 sharply. "Good gracious! has the king any right to interfere in matters
 of that kind? Politics are politics, as M. de Mazarin used to say; but
-love is love. If, therefore, you love M. de Bragelonne, marry him. _I_
-give _my_ consent."
+love is love. If, therefore, you love M. de Bragelonne, marry him. I
+give my consent."
 
 Athenais began to laugh.
 
@@ -14317,7 +14317,7 @@ chants, and his most complicated, learned, and sweetest compositions
 to those who had met beneath the thick covert of the woods. Near the
 songster, in the dark background of the large trees, could be seen the
 glistening eyes of an owl, attracted by the harmony. In this way
-the _fete_ of the whole court was a _fete_ also for the mysterious
+the fete of the whole court was a fete also for the mysterious
 inhabitants of the forest; for certainly the deer in the brake, the
 pheasant on the branch, the fox in its hole, were all listening. One
 could realize the life led by this nocturnal and invisible population
@@ -14473,7 +14473,7 @@ make your way in the world."
 
 "Yes, yes; I approve everything Athenais has just said; only --"
 
-"Only _what?_"
+"Only what?"
 
 "Well, I cannot carry it out. I have the firmest principles; I form
 resolutions beside which the laws of the Stadtholder and of the King
@@ -14775,7 +14775,7 @@ understand you at all. What! you who have a heart as I have, eyes as I
 have, and yet you speak of M. de Guiche, of M. de Saint-Aignan, when the
 king was there." These words, uttered in a precipitate manner, and in
 an agitated, fervid tone of voice, made her two companions, between whom
-she was seated, exclaim in a manner that terrified her, "_The king!_"
+she was seated, exclaim in a manner that terrified her, "The king!"
 
 La Valliere buried her face in her hands. "Yes," she murmured; "the
 king! the king! Have you ever seen any one to be compared to the king?"
@@ -14869,7 +14869,7 @@ spoke of me had a remarkably sweet voice."
 
 "Ah! your majesty permits yourself to be influenced by flattery."
 
-"No one will ever say it is a means _you_ make use of."
+"No one will ever say it is a means you make use of."
 
 "Forgive my stupidity, sire."
 
@@ -15284,7 +15284,7 @@ is madly in love with that little La Valliere. Say nothing of it to
 your wife; for the queen will know all about it very soon." This latter
 confidential communication had an immediate result. Monsieur, who had
 regained his composure, went triumphantly to look after his wife, and
-it was not yet midnight and the _fete_ was to continue until two in the
+it was not yet midnight and the fete was to continue until two in the
 morning, he offered her his hand for a promenade. At the end of a few
 paces, however, the first thing he did was to disobey his mother's
 injunctions.
@@ -15693,7 +15693,7 @@ have been lost."
 
 "Yes; La Valliere, Montalais, and myself."
 
-"And _you_, individually, spoke in a light manner of the king?"
+"And you, individually, spoke in a light manner of the king?"
 
 "I am afraid so. Should such be the case, will your highness have the
 kindness to make my peace with his majesty?"
@@ -15791,7 +15791,7 @@ you, there will be a doubt about all,-- persist, I say, that you knew
 that the king and M. de Saint-Aignan were there, and that you wished to
 amuse yourself at the expense of those who were listening."
 
-"Oh, Madame, at the _king's_ expense; we shall never dare say that!"
+"Oh, Madame, at the king's expense; we shall never dare say that!"
 
 "It is a simple jest; an innocent deception readily permitted in young
 girls whom men wish to take by surprise. In this manner everything
@@ -15807,7 +15807,7 @@ have said of --"
 
 "Very well, an additional reason. Say the whole affair was a mere
 joke. M. de Malicorne will have no occasion to get out of temper; M.
-de Saint-Aignan will be completely put out of countenance; _he_ will be
+de Saint-Aignan will be completely put out of countenance; he will be
 laughed at instead of you; and lastly, the king will be punished for a
 curiosity unworthy of his rank. Let people laugh a little at the king in
 this affair, and I do not think he will complain of it."
@@ -15946,7 +15946,7 @@ a prey to a mad passion, that makes him confide his grief to the trees,
 or to the air, from the very moment he has no longer any living being in
 reach of his voice. Besides, remember this: it very rarely happens that
 there is not always some one present to hear, especially the very things
-which ought _not_ to be heard." De Guiche uttered a deep sigh. "Nay,"
+which ought not to be heard." De Guiche uttered a deep sigh. "Nay,"
 continued Bragelonne, "you distress me; since your return here, you have
 a thousand times, and in a thousand different ways, confessed your love
 for her; and yet, had you not said one word, your return alone would
@@ -16135,7 +16135,7 @@ truthful. I implore you, therefore, to love me no more, and to forget
 utterly that I have ever addressed a word or a glance towards you."
 
 De Guiche turned around, bending a look full of passionate devotion upon
-her. "You," he said; "_you_ excuse yourself; _you_ implore me?"
+her. "You," he said; "you excuse yourself; you implore me?"
 
 "Certainly; since I have done evil, I ought to repair the evil I have
 done. And so, comte, this is what we will agree to. You will forgive my
@@ -16309,7 +16309,7 @@ invited by the king, you had not come."
 "Perfectly so. Paris has received the last tax very well."
 
 "Ah! I understand you wished to assure yourself of this good feeling
-before you came to participate in our _fetes_."
+before you came to participate in our fetes."
 
 "I have arrived, however, somewhat late to enjoy them. I will ask you,
 therefore, to inform me if the king is in the chateau or not, if I am
@@ -16369,7 +16369,7 @@ in a trembling voice. "You, my dear D'Herblay, who are so learned, will
 remember the history of a certain tyrant of Samos. What can I throw into
 the sea to avert approaching evil? Yes! I repeat it once more, I am
 too full of happiness! so happy that I wish for nothing beyond what I
-have... I have risen so high... You know my motto: '_Quo non ascendam?_'
+have... I have risen so high... You know my motto: 'Quo non ascendam?'
 I have risen so high that nothing is left me but to descend from my
 elevation. I cannot believe in the progress of a success already more
 than human."
@@ -16401,7 +16401,7 @@ is crawling this way."
 "Colbert?"
 
 "Yes; leave me, D'Herblay; I do not wish that fellow to see you with me,
-or he will take an aversion to _you_."
+or he will take an aversion to you."
 
 Aramis pressed his hand, saying, "What need have I of his friendship,
 while you are here?"
@@ -16417,7 +16417,7 @@ perceive, why do you not pay a visit, if not to the king, at least to
 Madame?"
 
 "To Madame," said the superintendent, his mind occupied by his
-_souvenirs_. "Yes, certainly, to Madame."
+souvenirs. "Yes, certainly, to Madame."
 
 "You remember," continued Aramis, "that we have been told that Madame
 stands high in favor during the last two or three days. It enters into
@@ -16522,7 +16522,7 @@ heaven," said Aramis; "M. Colbert is approaching. He has been
 recruiting while we were reading; see, how he is surrounded, praised,
 congratulated; he is decidedly becoming powerful." In fact, Colbert was
 advancing, escorted by all the courtiers who remained in the gardens,
-every one of whom complimented him upon the arrangements of the _fete_:
+every one of whom complimented him upon the arrangements of the fete:
 all of which so puffed him up that he could hardly contain himself.
 
 "If La Fontaine were here," said Fouquet, smiling, "what an admirable
@@ -16559,7 +16559,7 @@ best on slender resources."
 Fouquet made a gesture of assent.
 
 "But," pursued Colbert, "it would be only a proper display of your
-magnificence, monseigneur, if you were to offer to his majesty a _fete_
+magnificence, monseigneur, if you were to offer to his majesty a fete
 in your wonderful gardens -- in those gardens which have cost you sixty
 millions of francs."
 
@@ -17030,7 +17030,7 @@ served admirably to restore Fouquet to his place, and Colbert to his
 own.
 
 "And yet," said Louis XIV., "it was Colbert, however, that,
-notwithstanding his economy, had the arrangement of my _fetes_ here at
+notwithstanding his economy, had the arrangement of my fetes here at
 Fontainebleau; and I assure you, Monsieur Fouquet, that in no way has
 he checked the expenditure of money." Fouquet bowed, but did not reply.
 
@@ -17046,7 +17046,7 @@ of perception, which pierced through and detected the regular order of
 feelings and sensations, before the actual sensations themselves, and
 he therefore comprehended that the clerk had, in Fouquet's opinion, been
 too full of method and order in his arrangements; in other words, that
-the magnificent _fetes_ of Fontainebleau might have been rendered more
+the magnificent fetes of Fontainebleau might have been rendered more
 magnificent still. The king consequently felt that there was something
 in the amusements he had provided with which some person or another
 might be able to find fault; he experienced a little of the annoyance
@@ -17064,7 +17064,7 @@ of the various banquets, the architecture of the triumphal arches, the
 arrangements for the illuminations and fireworks, all the offspring
 of the "Clerk Colbert's" invention. The result was, the king passed in
 review before him everything that had taken place during the last
-eight days, and decided that faults could be found in his _fetes_.
+eight days, and decided that faults could be found in his fetes.
 But Fouquet, by his politeness, his thoughtful consideration, and his
 generosity, had injured Colbert more deeply than the latter, by his
 artifice, his ill-will, and his persevering hatred, had ever yet
@@ -17331,8 +17331,8 @@ lady."
 
 "You know her?"
 
-"Indirectly. She was the _protegee_ of a man named Malicorne, who is a
-_protegee_ of Manicamp's; Manicamp asked me to get the situation of
+"Indirectly. She was the protegee of a man named Malicorne, who is a
+protegee of Manicamp's; Manicamp asked me to get the situation of
 maid of honor for Montalais in Madame's household, and a situation for
 Malicorne as an officer in Monsieur's household. Well, I asked for the
 appointments, for you know very well that I have a weakness for that
@@ -17387,7 +17387,7 @@ to Phyllis."
 
 "And those lines --"
 
-"Are a _quatrain_. You understand, I trust, that a _quatrain_ is a
+"Are a quatrain. You understand, I trust, that a quatrain is a
 serious affair?"
 
 "Of course."
@@ -17406,7 +17406,7 @@ and a half to make, I need my undivided attention."
 "Will you have quite finished the three lines and a half to-morrow
 morning?"
 
-"I _hope_ so."
+"I hope so."
 
 "Adieu, then, until to-morrow."
 
@@ -17765,7 +17765,7 @@ the paths cross."
 
 "You take the middle path."
 
-"But there are _four_."
+"But there are four."
 
 "So there are. All I know is, that one of the four paths leads straight
 to Madame's apartments; and that one I am well acquainted with."
@@ -17787,7 +17787,7 @@ path."
 "In that case, you are almost there, for you have nothing else to do but
 cross the labyrinth."
 
-"_Nothing_ more than that? The deuce! so there is a labyrinth as well."
+"Nothing more than that? The deuce! so there is a labyrinth as well."
 
 "Yes, and complicated enough too; even in daylight one may sometimes
 be deceived,-- there are turnings and windings without end: in the first
@@ -18111,7 +18111,7 @@ destination."
 
 "The king heard it."
 
-"_Ahime!_ as the cardinal used to say."
+"Ahime! as the cardinal used to say."
 
 "The king was hidden in the thicket close to the royal oak."
 
@@ -18315,7 +18315,7 @@ and appearing an almost impassable barrier, a line of thick trees,
 the advanced sentinels of the vast forest which extends in front of
 Fontainebleau. It was therefore easy, provided one secured an apartment
 at the angle of the building, to obtain, by the main street from Paris,
-a view of, as well as to hear, the passers-by and the _fetes_; and, by
+a view of, as well as to hear, the passers-by and the fetes; and, by
 the Rue de Lyon, to look upon and to enjoy the calm of the country. And
 this without reckoning that, in cases of urgent necessity, at the very
 moment people might be knocking at the principal door in the Rue de
@@ -18353,7 +18353,7 @@ had observed, since his residence there, admission refused to so many.
 He asked himself, too, how it was that Manicamp, who, in his opinion,
 must be a man to be looked upon with veneration by everybody, having
 wished to bait his horse at the Beau Paon, on arriving there, both horse
-and rider had been incontinently turned away with a _nescio vos_ of the
+and rider had been incontinently turned away with a nescio vos of the
 most positive character. All this for Malicorne, whose mind being fully
 occupied by his own love affair and personal ambition, was a problem
 he had not applied himself to solve. Had he wished to do so, we should
@@ -18388,7 +18388,7 @@ secretaries, who had arrived the previous evening or that very morning.
 Malicorne, who had arrived the previous day, riding an ill-conditioned
 horse, with a slender valise, had announced himself at the hotel of
 the Beau Paon as the friend of a nobleman desirous of witnessing the
-_fetes_, and who would himself arrive almost immediately. The landlord,
+fetes, and who would himself arrive almost immediately. The landlord,
 on hearing these words, had smiled as if he were perfectly well
 acquainted either with Malicorne or his friend the nobleman, and had
 said to him, "Since you are the first arrival, monsieur, choose what
@@ -18507,7 +18507,7 @@ difficult to please."
 "Yet he told you --"
 
 "He certainly did tell me; but you know that man proposes and God
-disposes,--_verba volant, scripta manent_."
+disposes,--verba volant, scripta manent."
 
 "Which is as much to say --"
 
@@ -18633,7 +18633,7 @@ which he could never find an opportunity of delivering to the people
 they were intended for, he returned home to his comfortable little room,
 and leaning upon the balcony, which was filled with nasturtiums and
 white pinks, for whom Fontainebleau seemed to possess no attractions
-with all its illuminations, amusements, and _fetes_.
+with all its illuminations, amusements, and fetes.
 
 Things went on in this manner until the seventh day, a day of which
 we have given such full details, with its night also, in the preceding
@@ -18658,7 +18658,7 @@ another matter, for they have been retained here for you."
 
 "By yourself, I presume."
 
-"By _me?_"
+"By me?"
 
 "Do you mean to say you did not take lodgings here?"
 
@@ -19020,8 +19020,8 @@ immediately."
 
 "Give me your blessing, at least, monseigneur."
 
-"In my mind, I do; go, go; in my mind, I do so, I tell you --_animo_,
-Maitre Grisart, _viribus impossibile_." And he again fell back on the
+"In my mind, I do; go, go; in my mind, I do so, I tell you --animo,
+Maitre Grisart, viribus impossibile." And he again fell back on the
 armchair, in an almost senseless state. M. Grisart hesitated, whether
 he should give him immediate assistance, or should run to prepare the
 cordial he had promised. He decided in favor of the cordial, for he
@@ -19240,7 +19240,7 @@ influence.
 "Quick, the secret, the secret!" said the dying man, leaning upon his
 confessor.
 
-"_Coram isto?_" inquired the Spanish cardinal. [8]
+"Coram isto?" inquired the Spanish cardinal. [8]
 
 "Speak in Spanish," said the Franciscan, showing the liveliest
 attention.
@@ -19265,7 +19265,7 @@ future good or evil, would preserve the world from a great catastrophe;
 and the event, which has no fixed certainty even in the brain of him who
 originated it, could be turned to the advantage of our order."
 
-"_Pronto_, _pronto!_" murmured the Franciscan, in Spanish, who suddenly
+"Pronto, pronto!" murmured the Franciscan, in Spanish, who suddenly
 became paler, and leaned upon the priest. The cardinal approached the
 ear of the dying man, and said, "Well, monseigneur, I know that the king
 of France has determined that, at the very first pretext, a death for
@@ -19435,7 +19435,7 @@ full of respect, and advancing towards the door as if to leave the room:
 but a gesture of the Franciscan accompanied by a cry for him to remain,
 restrained him.
 
-"_Ecce homo!_" he exclaimed; then reading the paper a second time, he
+"Ecce homo!" he exclaimed; then reading the paper a second time, he
 called out, "Approach, approach quickly!"
 
 Aramis returned to the side of the Franciscan, with the same calm
@@ -19445,7 +19445,7 @@ Aramis had handed him. Then, taking hold of Aramis's hand, he drew him
 towards him, and inquired: "In what manner and by whose means could you
 possibly become acquainted with such a secret?"
 
-"Through Madame de Chevreuse, the intimate friend and _confidante_ of
+"Through Madame de Chevreuse, the intimate friend and confidante of
 the queen."
 
 "And Madame de Chevreuse --"
@@ -19508,7 +19508,7 @@ obeyed.
 
 "With this sign," he said, "you are the man needed to shake the world
 from one end to the other; with this sign you will overthrow; with this
-sign you will edify; _in hoc signo vinces!_" [9]
+sign you will edify; in hoc signo vinces!" [9]
 
 "Close the door," continued the Franciscan after a pause. Aramis shut
 and bolted the door, and returned to the side of the Franciscan.
@@ -19570,8 +19570,8 @@ for a simple interment, such as a poor monk only would require. Go."
 
 The Jesuit left the room. Then, turning towards the physician, and
 observing his pale and anxious face, he said, in a low tone of voice:
-"Monsieur Grisart, empty and clean this glass; _there is too much left
-in it of what the grand council desired you to put in_."
+"Monsieur Grisart, empty and clean this glass; there is too much left
+in it of what the grand council desired you to put in."
 
 Grisart, amazed, overcome, completely astounded, almost fell backwards
 in his extreme terror. Aramis shrugged his shoulders in sign of pity,
@@ -19694,7 +19694,7 @@ much agitated.
 "Hum! and yet, on the contrary, you seem to understand me very well.
 However, I will put my questions in a more precise manner, in order that
 you may not be able, in the slightest degree, to evade them. Listen to
-me: _Do you love M. de Bragelonne?_ That is plain enough, is it not?"
+me: Do you love M. de Bragelonne? That is plain enough, is it not?"
 
 At this question, which fell like the first bombshell of a besieging
 army into a doomed town, Louise started. "You ask me," she exclaimed,
@@ -19775,7 +19775,7 @@ whether true or false, amused me, and so I remembered it and told it
 to you. Just imagine then, my good Louise, the mischief that such a
 melancholy would create in anybody's brain,-- a melancholy, I mean, of
 that kind. For my own part, I resolved to tell you the story; for
-if such a thing were to happen to either of _us_, it would be most
+if such a thing were to happen to either of us, it would be most
 essential to be assured of its truth; to-day it is a snare, to-morrow
 it would become a jest and mockery, the next day it would mean death
 itself." La Valliere started again, and became, if possible, still
@@ -19910,7 +19910,7 @@ Spanish cannon, or the halberds of the Walloons. To-day, without the
 existence of any danger or uneasiness, and by the sunniest path in the
 world, I am going in search of a glorious recompense, which this mark
 of the king's favor seems to indicate, for I am, perhaps, going to win
-_you_, Louise. What other favor, more precious than yourself, could the
+you, Louise. What other favor, more precious than yourself, could the
 king confer upon me? Yet, Louise, in very truth I know not how or why,
 but this happiness and this future seem to vanish before my very eyes
 like mist -- like an idle dream; and I feel here, here at the very bottom
@@ -19960,7 +19960,7 @@ with which she was invested.
 
 "Madame's desire!" exclaimed Montalais and La Valliere together.
 
-"Her _ultimatum_," replied Mademoiselle de Tonnay-Charente,
+"Her ultimatum," replied Mademoiselle de Tonnay-Charente,
 diplomatically.
 
 "But," murmured La Valliere, "does Madame know, then --"
@@ -20103,7 +20103,7 @@ than that."
 De Guiche approached, Malicorne stepped aside, and Manicamp caught
 hold of De Guiche, who was thoughtful and melancholy. "Tell me, my dear
 comte, what rhyme you were trying to find," said Manicamp. "I have an
-excellent one to match yours, particularly if yours ends in _ame_."
+excellent one to match yours, particularly if yours ends in ame."
 
 De Guiche shook his head, and recognizing a friend, he took him by the
 arm. "My dear Manicamp," he said, "I am in search of something very
@@ -20303,7 +20303,7 @@ long as possible."
 entreat your royal highness to have the goodness to remind the king of
 France that one of his devoted servants is far away from him."
 
-"Take care that when you _are_ recalled, you do not consider his command
+"Take care that when you are recalled, you do not consider his command
 an abuse of power."
 
 "I do not understand you, Madame."
@@ -20484,7 +20484,7 @@ show no pity."
 
 "For mercy's sake, monseigneur."
 
-"Come, come, De Guiche, confess that you _did_ get a little sweet upon
+"Come, come, De Guiche, confess that you did get a little sweet upon
 Madame."
 
 "I will never confess such a thing, monseigneur."
@@ -20773,7 +20773,7 @@ thank monseigneur, and I thank Madame."
 know I cannot do without you. Return as soon as you can."
 
 "Very well; but I am in the humor to prove myself difficult to be
-pleased, in _my_ turn, monseigneur."
+pleased, in my turn, monseigneur."
 
 "Bah!"
 
@@ -20904,10 +20904,10 @@ five o'clock. If we say, then, that the repast occupied an hour, and
 the toilette two hours, everybody was ready about eight o'clock in the
 evening. Towards eight o'clock, then, the guests began to arrive
 at Madame's, for we have already intimated that it was Madame who
-"received" that evening. And at Madame's _soirees_ no one failed to
+"received" that evening. And at Madame's soirees no one failed to
 be present; for the evenings passed in her apartments always had that
 perfect charm about them which the queen, that pious and excellent
-princess, had not been able to confer upon her _reunions_. For,
+princess, had not been able to confer upon her reunions. For,
 unfortunately, one of the advantages of goodness of disposition is that
 it is far less amusing than wit of an ill-natured character. And yet,
 let us hasten to add, that such a style of wit could not be assigned
@@ -20946,7 +20946,7 @@ Sufficiently meditative in her liveliest humors to make even poets
 meditate; sufficiently pretty to dazzle by her attractions, even among
 the prettiest; sufficiently witty for the most distinguished persons
 who were present, to be listened to with pleasure -- it will easily be
-believed that the _reunions_ held in Madame's apartments must naturally
+believed that the reunions held in Madame's apartments must naturally
 have proved very attractive. All who were young flocked there, and when
 the king himself happens to be young, everybody at court is so too.
 And so, the older ladies of the court, the strong-minded women of the
@@ -22086,7 +22086,7 @@ arms.
 Saint-Aignan's eyes fell upon the signature. "La Valliere!" he
 exclaimed. "Oh, sire!"
 
-"Read, _read!_"
+"Read, read!"
 
 And Saint-Aignan read:
 
@@ -22095,7 +22095,7 @@ formalities which may be wanting in this letter. A note seems to be more
 speedy and more urgent than a dispatch. I venture, therefore, to address
 this note to your majesty. I have retired to my own room, overcome with
 grief and fatigue, sire; and I implore your majesty to grant me the
-favor of an audience, which will enable me to confess the _truth_ to my
+favor of an audience, which will enable me to confess the truth to my
 sovereign.
 
 "LOUISE de la VALLIERE."
@@ -22187,7 +22187,7 @@ his, and both went out into the vestibule.
 Chapter LIX. Something That neither Naiad nor Dryad Foresaw.
 
 Saint-Aignan stopped at the foot of the staircase leading to the
-_entresol_, where the maids of honor were lodged, and to the first
+entresol, where the maids of honor were lodged, and to the first
 floor, where Madame's apartments were situated. Then, by means of one
 of the servants who was passing, he sent to apprise Malicorne, who was
 still with Monsieur. After having waited ten minutes, Malicorne arrived,
@@ -22552,7 +22552,7 @@ together."
 
 These words of Louise elated the king, who, full of happiness,
 hurried Saint-Aignan down the stairs. Madame had not anticipated this
-_denouement_; and neither the Naiad nor the Dryad had breathed a word
+denouement; and neither the Naiad nor the Dryad had breathed a word
 about it.
 
 
@@ -22797,8 +22797,8 @@ attention, to her royal highness."
 
 "Since then, he has been taken up with Mademoiselle de la Valliere.
 Now, Mademoiselle de la Valliere is one of Madame's maids of honor. You
-happen to know, I suppose, what is called a _chaperon_ in matters of
-love. Well, then, Mademoiselle de la Valliere is Madame's _chaperon_.
+happen to know, I suppose, what is called a chaperon in matters of
+love. Well, then, Mademoiselle de la Valliere is Madame's chaperon.
 It is for you to take advantage of this state of things. You have no
 occasion for me to tell you that. But, at all events, wounded vanity
 will render the conquest an easier one; the girl will get hold of the
@@ -22882,7 +22882,7 @@ she can ask for."
 "Be easy, he will ask for some, soon."
 
 "Nay, more than that, I had thought he would have spoken to me about the
-_fete_ at Vaux, but he never said a word about it."
+fete at Vaux, but he never said a word about it."
 
 "He will be sure to do so, though."
 
@@ -22915,7 +22915,7 @@ myself?"
 
 "That is not unlikely."
 
-"If he were to request this _fete_ to be given?"
+"If he were to request this fete to be given?"
 
 "You would give it, of course."
 
@@ -22958,7 +22958,7 @@ devoted to you."
 
 "Why, on the contrary, you have this moment said so."
 
-"I did not say _the_ king; I said _a_ king."
+"I did not say the king; I said a king."
 
 "Is it not all the same?"
 
@@ -22980,12 +22980,12 @@ question were to be a very different person to Louis XIV."
 "You are mad, D'Herblay. There is no man living besides Louis XIV. who
 can sit on the throne of France. I know of none, not one."
 
-"_But_ I know one."
+"But I know one."
 
 "Unless it be Monsieur," said Fouquet, looking at Aramis uneasily; "yet
 Monsieur --"
 
-"It is _not_ Monsieur."
+"It is not Monsieur."
 
 "But how can it be, that a prince not of the royal line, that a prince
 without any right --"
@@ -23118,8 +23118,8 @@ the weather, the promenade should take place. Besides, there are
 certain terrestrial sovereigns who seem to have accorded them privileged
 existences, and there are certain times when it might almost be supposed
 that the expressed wish of an earthly monarch has its influence over the
-Divine will. It was Virgil who observed of Augustus: _Nocte pluit tota
-redeunt spectacula mane_. [10]
+Divine will. It was Virgil who observed of Augustus: Nocte pluit tota
+redeunt spectacula mane. [10]
 
 Louis attended mass as usual, but it was evident that his attention was
 somewhat distracted from the presence of the Creator by the remembrance
@@ -23200,15 +23200,15 @@ I am to judge from your majesty's gracious smile."
 and goodness."
 
 "Do you know I am told, Monsieur Fouquet, that you are preparing a grand
-_fete_ at Vaux."
+fete at Vaux."
 
 Fouquet smiled, as a sick man would do at the first shiver of a fever
 which has left him but returns again.
 
 "And that you have not invited me!" continued the king.
 
-"Sire," replied Fouquet, "I have not even thought of the _fete_ you
-speak of, and it was only yesterday evening that one of my _friends_,"
+"Sire," replied Fouquet, "I have not even thought of the fete you
+speak of, and it was only yesterday evening that one of my friends,"
 Fouquet laid a stress upon the word, "was kind enough to make me think
 of it."
 
@@ -23220,9 +23220,9 @@ own exalted station as to honor my dwelling with your royal presence?"
 
 
 "Excuse me, Monsieur Fouquet, you did not speak to me about your
-_fete_."
+fete."
 
-"I did not allude to the _fete_ to your majesty, I repeat, in the
+"I did not allude to the fete to your majesty, I repeat, in the
 first place, because nothing had been decided with regard to it, and,
 secondly, because I feared a refusal."
 
@@ -23233,7 +23233,7 @@ determined to push you hard."
 invitation --"
 
 "Well, Monsieur Fouquet, nothing is easier, I perceive, than our coming
-to an understanding. Your wish is to invite me to your _fete_, my own is
+to an understanding. Your wish is to invite me to your fete, my own is
 to be present at it; invite me and I will go."
 
 "Is it possible that your majesty will deign to accept?" murmured the
@@ -23244,9 +23244,9 @@ than accept; I rather fancy I am inviting myself."
 
 "Your majesty overwhelms me with honor and delight," exclaimed Fouquet,
 "but I shall be obliged to repeat what M. Vieuville said to your
-ancestor, Henry IV., _Domine non sum dignus_." [11]
+ancestor, Henry IV., Domine non sum dignus." [11]
 
-"To which I reply, Monsieur Fouquet, that if you give a _fete_, I will
+"To which I reply, Monsieur Fouquet, that if you give a fete, I will
 go, whether I am invited or not."
 
 "I thank your majesty deeply," said Fouquet, as he raised his head
@@ -23262,7 +23262,7 @@ Monsieur Fouquet, if the king were to be jealous of you?"
 on which your majesty were to be jealous of Vaux, I should possess
 something worthy of being offered to you."
 
-"Very well, Monsieur Fouquet, prepare your _fete_, and open the door of
+"Very well, Monsieur Fouquet, prepare your fete, and open the door of
 your house as wide as possible."
 
 "It is for your majesty to fix the day."
@@ -23429,7 +23429,7 @@ therefore, know what is going on yonder."
 "Nothing could have passed off better, or worse; according as he be
 sincere or hypocritical."
 
-"And the _fete?_"
+"And the fete?"
 
 "Will take place in a month."
 
@@ -23445,7 +23445,7 @@ circumstances."
 
 "No; I have passed the night writing, and all my orders are given."
 
-"Do not conceal it from yourself, D'Herblay, but the _fete_ will cost
+"Do not conceal it from yourself, D'Herblay, but the fete will cost
 some millions."
 
 "I will supply six; do you on your side get two or three."
@@ -23597,7 +23597,7 @@ interpretations that may be made."
 
 "For you, sire."
 
-"For _me?_" said the king, smiling, "I do not understand you."
+"For me?" said the king, smiling, "I do not understand you."
 
 "Has your majesty already forgotten what took place yesterday evening in
 her royal highness's apartments?"
@@ -23765,7 +23765,7 @@ and her head fell upon his shoulder.
 
 "Yes," said the king. "You see, the storm has not passed away."
 
-"_It is a warning, sire_." The king smiled. "Sire, it is the voice of
+"It is a warning, sire." The king smiled. "Sire, it is the voice of
 Heaven in anger."
 
 "Be it so," said the king. "I agree to accept that peal of thunder as
@@ -23824,7 +23824,7 @@ brother?"
 
 "It is not for me, sire, to seek to penetrate your majesty's secrets."
 
-"You _do_ believe it, then?" exclaimed the king.
+"You do believe it, then?" exclaimed the king.
 
 "I believe Madame is jealous, sire," La Valliere replied, firmly.
 
@@ -23965,7 +23965,7 @@ positively I do not understand your meaning."
 "Again, that is a delicacy on your part which charms me," replied
 Fouquet, "and I see you do not wish me to blush before you."
 
-"Blush! blush before _me!_ Why should you blush?"
+"Blush! blush before me! Why should you blush?"
 
 "Can I have deceived myself," said Fouquet; "and can I have been happy
 enough not to have offended you by my conduct towards you?"
@@ -24717,7 +24717,7 @@ inscribe every one's name on the list."
 "Sold them!" exclaimed the queen.
 
 "Yes; it would have been a dowry for her, and she would not have been
-obliged to marry without her _trousseau_, as will probably be the case."
+obliged to marry without her trousseau, as will probably be the case."
 
 "Really," answered the queen-mother, "poor little thing: has she no
 dresses, then?"

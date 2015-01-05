@@ -65,9 +65,9 @@ of time, but those who have begun by crying out: Down with Mazarin! will
 finish by shouting out, Down with all the people I have mentioned, each
 in his turn.
 
-    _* It is said that Mazarin, who, though a cardinal, had not_
-    _taken such vows as to prevent it, was secretly married to_
-    _Anne of Austria. -- La Porte’s Memoirs._
+    * It is said that Mazarin, who, though a cardinal, had not
+    taken such vows as to prevent it, was secretly married to
+    Anne of Austria. -- La Porte’s Memoirs.
 
 "Richelieu, whom they hated during his lifetime and whom they now praise
 after his death, was even less popular than I am. Often he was driven
@@ -659,7 +659,7 @@ say, about eight or nine years after the events which we have related in
 a preceding narrative, * fancied he had heard it pronounced as that of
 one who was said to be a model of courage, address and loyalty.
 
-    * _"The Three Musketeers."_
+    * "The Three Musketeers."
 
 Possessed by this idea, the cardinal resolved to know all about
 D’Artagnan immediately; of course he could not inquire from D’Artagnan
@@ -1505,7 +1505,7 @@ There was a secret communication between the cardinal’s apartments and
 those of the queen; and through this corridor* Mazarin passed whenever
 he wished to visit Anne of Austria.
 
-    _*This secret passage is still to be seen in the Palais Royal._
+    *This secret passage is still to be seen in the Palais Royal.
 
 In the bedroom in which this passage ended, Bernouin encountered Madame
 de Beauvais, like himself intrusted with the secret of these
@@ -2835,7 +2835,7 @@ beginning to court popularity by almsgiving. It was to this end that he
 performed from time to time some of those early masses which the common
 people, generally, alone attended.
 
-    _* A sacerdotal officer._
+    * A sacerdotal officer.
 
 D’Artagnan knelt as well as the rest, received his share of the
 benediction and made the sign of the cross; but when Bazin passed in his
@@ -7678,11 +7678,11 @@ famous pate will contain."
 
 "Two poniards, a knotted rope and a poire d’angoisse." *
 
-    _* This poire d’angoisse was a famous gag, in the form of a
-            pear,_
-    _which, being thrust into the mouth, by the aid of a spring,
-            dilated,_
-    _so as to distend the jaws to their greatest width._
+    * This poire d’angoisse was a famous gag, in the form of a
+            pear,
+    which, being thrust into the mouth, by the aid of a spring,
+            dilated,
+    so as to distend the jaws to their greatest width.
 
 "Yes, I understand."
 
@@ -28878,7 +28878,7 @@ large feet in the sands. "Zounds! I could defy a nation!"
 "I shall not trust to that," said the lieutenant, "and I shall make for
 the Dunes* as soon as possible."
 
-    _* Sandy hills about Dunkirk, from which it derives its name._
+    * Sandy hills about Dunkirk, from which it derives its name.
 
 The party followed him and soon disappeared with him behind the hillocks
 of sand unobserved. Here, after a short conference, they proposed to

@@ -382,10 +382,10 @@ the stranger. "She will soon pass; she is already late. I had better get
 on horseback, and go and meet her. I should like, however, to know what
 this letter addressed to Treville contains."
 
-    _*We are well aware that this term, milady, is only properly
+    *We are well aware that this term, milady, is only properly
             used when followed by a family name. But we find it thus
             in the manuscript, and we do not choose to take upon
-            ourselves to alter it._
+            ourselves to alter it.
 
 And the stranger, muttering to himself, directed his steps toward the
 kitchen.
@@ -1108,7 +1108,7 @@ the Guards of Monsieur the Cardinal."
 "Because he plainly perceives that his piquette* stands in need of being
 enlivened by a mixture of good wine."
 
-    _*A watered liquor, made from the second pressing of the grape._
+    *A watered liquor, made from the second pressing of the grape.
 
 The two Musketeers reddened to the whites of their eyes. D’Artagnan did
 not know where he was, and wished himself a hundred feet underground.
@@ -3204,7 +3204,7 @@ the use he had best make of his share of the forty pistoles, Athos
 advised him to order a good repast at the Pomme-de-Pin, Porthos to
 engage a lackey, and Aramis to provide himself with a suitable mistress.
 
-    _*Domestic affairs, housekeeping_
+    *Domestic affairs, housekeeping
 
 The repast was carried into effect that very day, and the lackey waited
 at table. The repast had been ordered by Athos, and the lackey furnished
@@ -4077,7 +4077,7 @@ doing it."
 "And did the mercer*," rejoined Athos, "tell you, d’Artagnan, that the
 queen thought that Buckingham had been brought over by a forged letter?"
 
-    _*Haberdasher_
+    *Haberdasher
 
 "She is afraid so."
 
@@ -10494,10 +10494,10 @@ softly in a manner agreed upon between him and his lackey. Planchet*,
 whom he had sent home two hours before from the Hotel de Ville, telling
 him to sit up for him, opened the door for him.
 
-    _*The reader may ask, "How came Planchet here?" when he was left
+    *The reader may ask, "How came Planchet here?" when he was left
             "stiff as a rush" in London. In the intervening time
             Buckingham perhaps sent him to Paris, as he did the
-            horses._
+            horses.
 
 "Has anyone brought a letter for me?" asked d’Artagnan, eagerly.
 
@@ -11603,8 +11603,8 @@ monsieur, the visit I received in your absence."
 "He came, he said, on the part of his Eminence, who wished you well, and
 to beg you to follow him to the Palais-Royal*."
 
-    _*It was called the Palais-Cardinal before Richelieu gave it to
-            the King._
+    *It was called the Palais-Cardinal before Richelieu gave it to
+            the King.
 
 "What did you answer him?"
 
@@ -11944,7 +11944,7 @@ named Madame Coquenard, who, although she is at least fifty, still gives
 herself jealous airs. It struck me as very odd that a princess should
 live in the Rue aux Ours."
 
-    _*Attorney_
+    *Attorney
 
 "But how do you know all this?"
 
@@ -20549,8 +20549,8 @@ voice which made the Musketeer start.
 awaits you at the mouth of Charente, at Fort La Pointe*. He will set
 sail tomorrow morning."
 
-    _*Fort La Pointe, or Fort Vasou, was not built until 1672,
-            nearly 50 years later._
+    *Fort La Pointe, or Fort Vasou, was not built until 1672,
+            nearly 50 years later.
 
 "I must go thither tonight?"
 

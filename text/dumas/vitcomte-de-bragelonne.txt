@@ -2991,8 +2991,8 @@ shoe our horses declared they had been shod in the north."
 I was only told of your embarkation at Brighelmstone and your landing in
 Normandy."*
 
-    _* The correct name of the city is Brighthelmstone. The mistake
-            is Dumas’s._
+    * The correct name of the city is Brighthelmstone. The mistake
+            is Dumas’s.
 
 "Oh!" exclaimed Charles, "if Heaven permits kings to be thus ignorant of
 the histories of each other, how can they render assistance to their
@@ -18808,7 +18808,7 @@ black horses, going at a swift pace, alarmed, as they passed, the timid
 hack of the maitre d’hotel, who, putting his head out at the window,
 cried, in a fright, "Take care of my bottles!"*
 
-    _* In the five-volume edition, Volume 1 ends here._
+    * In the five-volume edition, Volume 1 ends here.
 
 
 
@@ -19754,8 +19754,8 @@ Fouquet continued, "Accompany] monsieur l’abbe, for several reasons, but
 the house is easily to be known -- the ’Image-de-Notre-Dame’ in the front,
 a garden, the only one in the quarter, behind."
 
-    _* [The text in the print copy is corrupt at this point._
-    _The suggested reading, in brackets, is by John Bursey.]_
+    * [The text in the print copy is corrupt at this point.
+    The suggested reading, in brackets, is by John Bursey.]
 
 "Good, good! I will go and give notice to my soldiers."
 
