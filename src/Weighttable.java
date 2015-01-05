@@ -14,10 +14,17 @@ public class Weighttable extends Hashtable<String, Integer> {
 	private static final long serialVersionUID = 570882516693488244L;
 	private Random random = new Random();
 	
+	/**
+	 * Constructs a new weight table with default everything for the hashtable.
+	 */
 	public Weighttable() {
 		super();
 	}
 	
+	/**
+	 * Gets a string, based on the weight that it holds in the table.
+	 * @return
+	 */
 	public String getRandomWord() {
 
 		Object[] words = this.keySet().toArray();
