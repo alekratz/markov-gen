@@ -3,11 +3,7 @@ import java.util.Random;
 
 /**
  * A weight table is used to have keys that contain an ordered set of N strings corresponding to values that are string-
- * integer pairs. 
- * 
- * [a, b, c, d] -> [(foo, 12), (bar, 7)]
- * [b, c, d, foo] -> [(baz, 1)]
- * [b, c, d, bar] -> [(foobar, 1), (foobaz, 2)];
+ * integer pairs.
  * @author Alek Ratzloff
  *
  */
