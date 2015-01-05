@@ -12,7 +12,7 @@
     Or those should not set forth upon my track
     To overtake me, who should miss me here
     And long to know if still I held them dear.
-    They would not find me changed from him they knew--
+    They would not find me changed from him they knew --
     Only more sure of all I thought was true.
 
 
@@ -42,7 +42,7 @@ Ghost House
     Before he arrives to say it out.
     It is under the small, dim, summer star.
     I know not who these mute folk are
-    Who share the unlit place with me--
+    Who share the unlit place with me --
     Those stones out under the low-limbed tree
     Doubtless bear names that the mosses mar.
     They are tireless folk, but slow and sad,
@@ -145,7 +145,7 @@ Stars
     HOW countlessly they congregate
     O'er our tumultuous snow,
     Which flows in shapes as tall as trees
-    When wintry winds do blow!--
+    When wintry winds do blow! --
     As if with keenness for our fate,
     Our faltering few steps on
     To white rest, and a place of rest
@@ -329,7 +329,7 @@ Asking for Roses
     'Tis Mary that speaks and our errand discloses.
     'Pray, are you within there? Bestir you, bestir you!
     'Tis summer again; there's two come for roses.
-    'A word with you, that of the singer recalling--
+    'A word with you, that of the singer recalling --
     Old Herrick: a saying that every maid knows is
     A flower unplucked is but left to the falling,
     And nothing is gained by not gathering roses.'
@@ -364,7 +364,7 @@ Waiting Afield at Dusk
     In the abyss of odor and rustle at my back,
     That, silenced by my advent, finds once more,
     After an interval, his instrument,
-    And tries once--twice--and thrice if I be there;
+    And tries once -- twice -- and thrice if I be there;
     And on the worn book of old-golden song
     I brought not here to read, it seems, but hold
     And freshen in this air of withering sweetness;
@@ -392,7 +392,7 @@ In a Vale
     One so lonely was fain to list,
     That the stars were almost faded away
     Before the last went, heavy with dew,
-    Back to the place from which she came--
+    Back to the place from which she came --
     Where the bird was before it flew,
     Where the flower was before it grew,
     Where bird and flower were one and the same.
@@ -413,7 +413,7 @@ A Dream Pang
     (This was my dream) and looked and pondered long,
     But did not enter, though the wish was strong:
     You shook your pensive head as who should say,
-    'I dare not--too far in his footsteps stray--
+    'I dare not -- too far in his footsteps stray --
     He must seek me would he undo the wrong.
     Not far, but near, I stood and saw it all
     Behind low boughs the trees let down outside;
@@ -439,7 +439,7 @@ In Neglect
 The Vantage Point
 
     IF tired of trees I seek again mankind,
-    Well I know where to hie me--in the dawn,
+    Well I know where to hie me -- in the dawn,
     To a slope where the cattle keep the lawn.
     There amid lolling juniper reclined,
     Myself unseen, I see in white defined
@@ -462,7 +462,7 @@ Mowing
     And that was my long scythe whispering to the ground.
     What was it it whispered? I knew not well myself;
     Perhaps it was something about the heat of the sun,
-    Something, perhaps, about the lack of sound--
+    Something, perhaps, about the lack of sound --
     And that was why it whispered and did not speak.
     It was no dream of the gift of idle hours,
     Or easy gold at the hand of fay or elf:
@@ -627,9 +627,9 @@ In Equal Sacrifice
     But when in battle the foe were met,
     The Douglas found him sore beset,
     With only strength of the fighting arm
-    For one more battle passage yet--
+    For one more battle passage yet --
     And that as vain to save the day
-    As bring his body safe away--
+    As bring his body safe away --
     Only a signal deed to do
     And a last sounding word to say.
     The heart he wore in a golden chain
@@ -657,7 +657,7 @@ The Tuft of Flowers
     I looked for him behind an isle of trees;
     I listened for his whetstone on the breeze.
     But he had gone his way, the grass all mown,
-    And I must be, as he had been,--alone,
+    And I must be, as he had been,-- alone,
     'As all must be,' I said within my heart,
     'Whether they work together or apart.'
     But as I said it, swift there passed me by
@@ -772,8 +772,8 @@ Pan with Us
     They were pipes of pagan mirth,
     And the world had found new terms of worth.
     He laid him down on the sun-burned earth
-    And ravelled a flower and looked away--
-    Play? Play?--What should he play?
+    And ravelled a flower and looked away --
+    Play? Play? -- What should he play?
 
 
 
@@ -784,7 +784,7 @@ The Demiurge's Laugh
     I was running with joy on the Demon's trail,
     Though I knew what I hunted was no true god.
     It was just as the light was beginning to fail
-    That I suddenly heard--all I needed to hear:
+    That I suddenly heard -- all I needed to hear:
     It has lasted me many and many a year.
     The sound was behind me instead of before,
     A sleepy sound, but mocking half,
@@ -876,7 +876,7 @@ October
     Slow, slow!
     For the grapes' sake, if they were all,
     Whose leaves already are burnt with frost,
-    Whose clustered fruit must else be lost--
+    Whose clustered fruit must else be lost --
     For the grapes' sake along the wall.
 
 
@@ -893,8 +893,8 @@ My Butterfly
     There is none left to mourn thee in the fields.
     The gray grass is not dappled with the snow;
     Its two banks have not shut upon the river;
-    But it is long ago--
-    It seems forever--
+    But it is long ago --
+    It seems forever --
     Since first I saw thee glance,
     With all the dazzling other ones,
     In airy dalliance,
@@ -916,7 +916,7 @@ My Butterfly
     Snatched thee, o'er eager, with ungentle grasp.
     Ah! I remember me
     How once conspiracy was rife
-    Against my life--
+    Against my life --
     The languor of it and the dreaming fond;
     Surging, the grasses dizzied me of thought,
     The breeze three odors brought,
