@@ -9,6 +9,7 @@ public class MarkovGen {
 	private static boolean verbose = false;
 	private static ArrayList<String> paths = new ArrayList<>();
 	private static int generateCount = 1;
+	private static int paragraphCount = 1;
 	private static int order = 1;
 	
 	public static void printUsage() {
@@ -17,6 +18,7 @@ public class MarkovGen {
 		System.out.println("-? -h -help .....................prints this message");
 		System.out.println("-v -verbose .....................verbose output");
 		System.out.println("-c -count .......................number of sentences to generate. default: 1");
+		System.out.println("-p -paragraphs ..................number of paragraphs to generate. default: 1");
 		System.out.println("-o -order .......................how many words are in each node. default: 1");
 	}
 	
@@ -36,6 +38,14 @@ public class MarkovGen {
 				String countStr = args[++i];
 				try {
 					generateCount = Integer.parseInt(countStr);
+				} catch(NumberFormatException ex) {
+					System.out.println("Error with flag -c/-count: " + ex.getMessage());
+					System.exit(1);
+				}
+			} else if(args[i].equals("-p") || args[i].equals("-paragraph")) {
+				String pcountStr = args[++i];
+				try {
+					paragraphCount = Integer.parseInt(pcountStr);
 				} catch(NumberFormatException ex) {
 					System.out.println("Error with flag -c/-count: " + ex.getMessage());
 					System.exit(1);
@@ -76,9 +86,11 @@ public class MarkovGen {
 		}
 		verbosePrintln("Loaded " + chain.count() + " chains of " + order + " order");
 		
-		String sentences = chain.generateParagraph(generateCount);
-		System.out.println(sentences);
-		System.out.println();
+		for(int i = 0; i < paragraphCount; i++) {
+			String sentences = chain.generateParagraph(generateCount);
+			System.out.println(sentences);
+			System.out.println();
+		}
 	}
 	
 	public static void verbosePrintln(String text) {
