@@ -9,6 +9,7 @@ public class MarkovGen {
 	private static boolean verbose = false;
 	private static ArrayList<String> paths = new ArrayList<>();
 	private static int generateCount = 1;
+	private static int order = 1;
 	
 	public static void printUsage() {
 		System.out.println("usage: MarkovGen [options] input1 [input 2 ...]");
@@ -16,6 +17,7 @@ public class MarkovGen {
 		System.out.println("-? -h -help .....................prints this message");
 		System.out.println("-v -verbose .....................verbose output");
 		System.out.println("-c -count .......................number of sentences to generate. default: 1");
+		System.out.println("-o -order .......................how many words are in each node. default: 1");
 	}
 	
 	public static void parseArgs(String[] args) {
@@ -30,12 +32,20 @@ public class MarkovGen {
 			} else if(args[i].equals("-?") || args[i].equals("-help") || args[i].equals("-h")) {
 				printUsage();
 				System.exit(0);
-			} else if(args[i].equals("-c")) {
+			} else if(args[i].equals("-c") || args[i].equals("-count")) {
 				String countStr = args[++i];
 				try {
 					generateCount = Integer.parseInt(countStr);
 				} catch(NumberFormatException ex) {
-					System.out.println("Error with flag -c: " + ex.getMessage());
+					System.out.println("Error with flag -c/-count: " + ex.getMessage());
+					System.exit(1);
+				}
+			} else if(args[i].equals("-o") || args[i].equals("-order")) {
+				String orderStr = args[++i];
+				try {
+					order = Integer.parseInt(orderStr);
+				} catch(NumberFormatException ex) {
+					System.out.println("Error with flag -o/-order: " + ex.getMessage());
 					System.exit(1);
 				}
 			} else {
