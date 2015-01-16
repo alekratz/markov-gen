@@ -4,7 +4,7 @@ import java.util.Random;
 /**
  * A weight table is used to have keys that contain an ordered set of N strings corresponding to values that are string-
  * integer pairs.
- * @author Alek Ratzloff
+ * @author Alek Ratzloff <alekratz@gmail.com>
  *
  */
 public class Weighttable extends Hashtable<String, Integer> {
