@@ -2,12 +2,9 @@ markov-gen
 =
 This is a markov chain generator project written in Java as practice for writing them as MapReduce jobs for a hadoop cluster. You are welcome to mess around with the code as much as you please - this is really just a small side project.
 
-Installing
-=
-
 Using
 =
-Markov-gen depends on org.json.simple, a Java JSON library. This can be found [here](https://code.google.com/p/json-simple/downloads/detail?name=json-simple-1.1.1.jar&can=2&q=). Just make a directory called "lib" and put the jar in there.
+Markov-gen uses Java 8, and not Java 7. It uses Java 8 features, including collectors and streams. Markov-gen also depends on org.json.simple, a Java JSON library. This can be found [here](https://code.google.com/p/json-simple/downloads/detail?name=json-simple-1.1.1.jar&can=2&q=). Just make a directory called "lib" and put the jar in there.
 
 I use Eclipse when writing the software, but you can directly compile this using
 
