@@ -1,6 +1,8 @@
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
+import java.io.FileWriter;
+import java.io.IOException;
 import java.util.Hashtable;
 import java.util.Random;
 import java.util.Scanner;
@@ -11,7 +13,7 @@ import org.json.simple.JSONValue;
 
 /**
  * Represents a Markov chain, with connections and the like.
- * @author Alek Ratzloff
+ * @author Alek Ratzloff <alekratz@gmail.com>
  *
  */
 public class MarkovChain {
@@ -148,16 +150,34 @@ public class MarkovChain {
 		return weights.getRandomWord();
 	}
 	
-	public void saveToFile(String path) {
-		// TODO : this	
+	public void saveToFile(String path) throws IOException {
+		File file = new File(path);
+		if(file.exists()) { // overwrite files
+			file.delete();
+		}
+		FileWriter writer = new FileWriter(file);
+		JSONObject root = new JSONObject();
+		for(MarkovQueue queue : chain.keySet()) {
+			String jsonKey = queue.toString(); // this gives a comma-separated list of the words
+			Weighttable table = chain.get(queue);
+			JSONObject queueRule = new JSONObject();
+			for(String word : table.keySet()) {
+				Integer weight = table.get(word);
+				queueRule.put(word, weight);
+			}
+			root.put(jsonKey, queueRule);
+		}
+		writer.write(root.toJSONString());
+		writer.close();
 	}
 	
 	public void loadFromFile(String path) throws FileNotFoundException {
 		File file = new File(path);
 		FileReader reader =  new FileReader(file);
 		JSONObject root = (JSONObject) JSONValue.parse(reader);
-		for(Object word : root.keySet()) {
-			// TODO : this
+		for(Object wordObj : root.keySet()) {
+			String wordSetStr = (String)wordObj;
+			System.out.println(wordSetStr);
 		}
 	}
 	

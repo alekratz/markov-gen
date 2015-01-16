@@ -11,15 +11,22 @@ public class MarkovGen {
 	private static int generateCount = 1;
 	private static int paragraphCount = 1;
 	private static int order = 1;
+	private static boolean generateJson = false;
+	private static String jsonOut = "";
 	
 	public static void printUsage() {
 		System.out.println("usage: MarkovGen [options] input1 [input 2 ...]");
+		System.out.println("Inputs may either be JSON encodings of a Markov chain, or a text file.");
+		System.out.println("File extensions for JSON encodings must be .json to be recognized.");
+		System.out.println();
 		System.out.println("options:");
 		System.out.println("-? -h -help .....................prints this message");
 		System.out.println("-v -verbose .....................verbose output");
 		System.out.println("-c -count .......................number of sentences to generate. default: 1");
 		System.out.println("-p -paragraphs ..................number of paragraphs to generate. default: 1");
 		System.out.println("-o -order .......................how many words are in each node. default: 1");
+		System.out.println("-g -generate ....................generates a JSON object of the markov chain");
+		System.out.println("-j -json ........................the name for the outputted json file (implies -g)");
 	}
 	
 	public static void parseArgs(String[] args) {
@@ -58,6 +65,11 @@ public class MarkovGen {
 					System.out.println("Error with flag -o/-order: " + ex.getMessage());
 					System.exit(1);
 				}
+			} else if(args[i].equals("-g") || args[i].equals("-generate")) {
+				generateJson = true;
+			} else if(args[i].equals("-j") || args[i].equals("-json")) {
+				generateJson = true;
+				jsonOut = args[++i];
 			} else {
 				paths.add(args[i]);
 			}
@@ -81,15 +93,29 @@ public class MarkovGen {
 				verbosePrintln("load " + path);
 				chain.train(contents); // choo choo
 			} catch(IOException ex) {
-				System.out.println("Error reading " + path + ": " + ex.getMessage());
+				System.err.println("Error reading " + path + ": " + ex.getMessage());
 			}
 		}
-		verbosePrintln("Loaded " + chain.count() + " chains of " + order + " order");
+		verbosePrintln("Loaded " + chain.count() + " chains of order " + order);
 		
+		// Print sentences
 		for(int i = 0; i < paragraphCount; i++) {
 			String sentences = chain.generateParagraph(generateCount);
 			System.out.println(sentences);
 			System.out.println();
+		}
+		
+		// Generate json
+		if(generateJson) {
+			// Create a filename if you need to
+			if(jsonOut.isEmpty())
+				jsonOut = paths.get(0) + ".json";
+			try {
+				chain.saveToFile(jsonOut);
+				verbosePrintln("Saved " + chain.count() + " chains of order " + order + " to " + jsonOut);
+			} catch(IOException ex) {
+				System.err.println("Error writing " + jsonOut + ": " + ex.getMessage());
+			}
 		}
 	}
 	

@@ -64,7 +64,7 @@ public class MarkovQueue extends ArrayDeque<String> {
 	
 	@Override
 	public String toString() {
-		return this.stream().collect(Collectors.joining(","));
+		return this.stream().collect(Collectors.joining(" "));
 	}
 	
 	public int getOrder() {
