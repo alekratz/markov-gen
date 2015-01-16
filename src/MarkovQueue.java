@@ -1,9 +1,10 @@
 import java.util.ArrayDeque;
+import java.util.stream.Collectors;
 
 
 /**
  * Implements an ordered table of strings, with deep hashing and off-the-edge pushing to the end of the queue. 
- * @author alek
+ * @author Alek Ratzloff <alekratz@gmail.com>
  *
  */
 public class MarkovQueue extends ArrayDeque<String> {
@@ -59,6 +60,11 @@ public class MarkovQueue extends ArrayDeque<String> {
 		for(String s : this)
 			c.add(s);
 		return c;
+	}
+	
+	@Override
+	public String toString() {
+		return this.stream().collect(Collectors.joining(","));
 	}
 	
 	public int getOrder() {
