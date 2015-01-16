@@ -2,4 +2,4 @@
 
 args=$*
 
-java $JAVA_ARGS -classpath "bin/:." MarkovGen $args
+java $JAVA_ARGS -classpath "bin/:lib/:." MarkovGen $args
