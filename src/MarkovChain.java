@@ -3,10 +3,7 @@ import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
-import java.util.Hashtable;
-import java.util.Random;
-import java.util.Scanner;
-import java.util.Stack;
+import java.util.*;
 
 import org.json.simple.JSONObject;
 import org.json.simple.JSONValue;
@@ -150,35 +147,76 @@ public class MarkovChain {
 		return weights.getRandomWord();
 	}
 	
+	/**
+	 * Saves this instance of a Markov chain to a JSON-encoded file.
+	 * @param path the location to save to
+	 * @throws IOException
+	 */
+	@SuppressWarnings("unchecked")
 	public void saveToFile(String path) throws IOException {
 		File file = new File(path);
 		if(file.exists()) { // overwrite files
 			file.delete();
 		}
+		
 		FileWriter writer = new FileWriter(file);
 		JSONObject root = new JSONObject();
-		for(MarkovQueue queue : chain.keySet()) {
+		chain.forEach((queue, table) -> {
 			String jsonKey = queue.toString(); // this gives a comma-separated list of the words
-			Weighttable table = chain.get(queue);
 			JSONObject queueRule = new JSONObject();
-			for(String word : table.keySet()) {
-				Integer weight = table.get(word);
-				queueRule.put(word, weight);
-			}
+			table.forEach(queueRule::put);
 			root.put(jsonKey, queueRule);
-		}
+		});
+		
 		writer.write(root.toJSONString());
 		writer.close();
 	}
 	
+	/**
+	 * Loads and merges the contents of a JSON-encoded Markov chain into this current Markov chain.
+	 * @param path the location of the JSON encoded file
+	 * @throws FileNotFoundException
+	 */
 	public void loadFromFile(String path) throws FileNotFoundException {
 		File file = new File(path);
 		FileReader reader =  new FileReader(file);
 		JSONObject root = (JSONObject) JSONValue.parse(reader);
-		for(Object wordObj : root.keySet()) {
-			String wordSetStr = (String)wordObj;
-			System.out.println(wordSetStr);
-		}
+		
+		root.forEach((wordObj, valueObj) -> {
+            MarkovQueue queue = new MarkovQueue(((String) wordObj).split(" "));
+            if(queue.getOrder() != getOrder() && getOrder() == 1 && count() == 0) {
+                // if the order is equal to 1, and there hasn't been anything added to the chain yet, then we can infer
+                // that the order is going to be the same order as the queue
+                order = queue.getOrder();
+            } else {
+                // TODO: make this message less confusing
+                throw new RuntimeException("Mismatched Markov chain order; " + path + " order is " + queue.getOrder() +
+                        " versus established order of " + order);
+            }
+            JSONObject value = (JSONObject)valueObj;
+            Weighttable weights = new Weighttable();
+            value.forEach((word, weight) -> {
+                weights.addWeight((String)word, (Integer)weight);
+            });
+            chain.put(queue, weights);
+        });
+	}
+	
+	/**6
+	 * Merges the contents of two Markov chains.
+	 * @param markovChain
+	 */
+	public void merge(MarkovChain markovChain) {
+		// yay java 8 loops
+		markovChain.chain.forEach((queue, mergeTable) -> {
+			if(chain.contains(queue)) {
+				// merge the weight tables for this queue
+				Weighttable thisTable = chain.get(queue);
+				mergeTable.forEach((word, weight) -> thisTable.addWeight(word, weight));
+			} else {
+				chain.put(queue, mergeTable);
+			}
+		});
 	}
 	
 	/**

@@ -1,4 +1,6 @@
+import java.lang.reflect.Array;
 import java.util.ArrayDeque;
+import java.util.Arrays;
 import java.util.stream.Collectors;
 
 
@@ -23,7 +25,16 @@ public class MarkovQueue extends ArrayDeque<String> {
 	public MarkovQueue(int order) {
 		this.order = order;
 	}
-	
+
+    /**
+     * Creates a queue for a Markov chain that will infer its order from the length of the items
+     * @param items
+     */
+    public MarkovQueue(String[] items) {
+        this.order = items.length;
+        Arrays.stream(items).forEach(s -> push(s));
+    }
+
 	@Override
 	public void addFirst(String e) {
 		while(this.size() >= order) {

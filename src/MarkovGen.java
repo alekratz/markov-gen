@@ -1,6 +1,8 @@
 import java.io.File;
 import java.io.FileReader;
 import java.io.IOException;
+import java.nio.file.Path;
+import java.nio.file.Paths;
 import java.util.ArrayList;
 
 
@@ -83,16 +85,21 @@ public class MarkovGen {
 		for(String path : paths) {
 			try {
 				File input = new File(path);
-				FileReader reader = new FileReader(input);
-				char[] buffer = new char[(int)input.length()];
-				reader.read(buffer);
-				reader.close();
-				if(buffer[0] == 0)
-					buffer[0] = ' ';
-				String contents = new String(buffer);
-				verbosePrintln("load " + path);
-				chain.train(contents); // choo choo
-			} catch(IOException ex) {
+				if(input.getName().endsWith(".json")) {
+					// dealing with json encoding of a chain, so load a new chain and merge it with the current one
+					chain.loadFromFile(path);
+				} else {
+					FileReader reader = new FileReader(input);
+					char[] buffer = new char[(int)input.length()];
+					reader.read(buffer);
+					reader.close();
+					if(buffer[0] == 0)
+						buffer[0] = ' ';
+					String contents = new String(buffer);
+					verbosePrintln("load " + path);
+					chain.train(contents); // choo choo
+				}
+			} catch(Exception ex) {
 				System.err.println("Error reading " + path + ": " + ex.getMessage());
 			}
 		}
@@ -108,8 +115,13 @@ public class MarkovGen {
 		// Generate json
 		if(generateJson) {
 			// Create a filename if you need to
-			if(jsonOut.isEmpty())
-				jsonOut = paths.get(0) + ".json";
+			if(jsonOut.isEmpty()) {
+                Path jsonPaths = Paths.get(paths.get(0));
+                jsonOut = jsonPaths.getFileName() + ".json";
+
+            }
+            verbosePrintln("Saving to " + jsonOut);
+
 			try {
 				chain.saveToFile(jsonOut);
 				verbosePrintln("Saved " + chain.count() + " chains of order " + order + " to " + jsonOut);
