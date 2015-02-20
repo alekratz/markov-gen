@@ -22,6 +22,8 @@ Text licenses
 =
 Although am a little fuzzy on the details of the licenses, I have chosen to distribute some of the texts that I used during testing of this software. Most texts included are public domain, and no longer hold their copyrights. These are located in the text/ directory. Texts not under public domain are detailed below.
 
+Also included is the TEXT-LICENSE file. This covers the texts retrieved from Project Gutenberg, which are licensed under the Gutenberg license.
+
 Other sources
 =
 As mentioned previously, *most* of the texts are public domain. The works of Lovecraft are included, however, there is some minor controversy surrounding the status of the copyright for some of his post-1923 works (including the Call of Cthlulhu). It's a long, legal mess, but I have decided to include them because Lovecraft was known to be very generous with his work, and encouraged people to derive and draw inspiration from his writing. I am not distributing his writing for entertainment purposes, and rather, for constructive, educational purposes. I do not own the works of H.P. Lovecraft, and I am not taking credit for it.
